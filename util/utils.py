@@ -42,11 +42,13 @@ def load_json(path):
     return json.load(f)
 
 
-json.dumps(numpy.float32(1.2), cls=MyEncoder)
-json.dumps(numpy.arange(12), cls=MyEncoder)
-json.dumps({'a': numpy.int32(42)}, cls=MyEncoder)
 
 def write_json(o, path):
+
+  json.dumps(numpy.float32(1.2), cls=MyEncoder)
+  json.dumps(numpy.arange(12), cls=MyEncoder)
+  json.dumps({'a': numpy.int32(42)}, cls=MyEncoder)
+
   if "/" in path:
     tf.io.gfile.makedirs(path.rsplit("/", 1)[0])
   with tf.io.gfile.GFile(path, "w") as f:
