@@ -38,7 +38,6 @@ RawResult = collections.namedtuple("RawResult", [
     "end_top_index"
 ])
 
-
 class SpanBasedQAScorer(scorer.Scorer):
   """Runs evaluation for SQuAD 1.1, SQuAD 2.0, and MRQA tasks."""
 
@@ -240,7 +239,7 @@ class SpanBasedQAScorer(scorer.Scorer):
       for (i, entry) in enumerate(nbest):
         output = collections.OrderedDict()
         output["text"] = entry.text
-        output["probability"] = probs[i]
+        output["probability"] =   [i]
         output["start_logit"] = entry.start_logit
         output["end_logit"] = entry.end_logit
         nbest_json.append(dict(output))
