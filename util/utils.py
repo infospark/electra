@@ -22,6 +22,7 @@ from __future__ import print_function
 import json
 import pickle
 import sys
+import numpy
 
 import tensorflow.compat.v1 as tf
 
