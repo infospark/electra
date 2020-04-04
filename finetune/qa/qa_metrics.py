@@ -263,6 +263,10 @@ class SpanBasedQAScorer(scorer.Scorer):
 
     utils.write_json(dict(all_predictions),
                      self._config.qa_preds_file(self._name))
+
+    utils.write_json(dict(all_nbest_json),
+                     self._config.nbest_file(self._name))
+
     if self._v2:
       utils.write_json({
           k: float(v) for k, v in six.iteritems(scores_diff_json)},
