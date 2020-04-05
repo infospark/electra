@@ -52,7 +52,7 @@ def write_json(o, path):
   if "/" in path:
     tf.io.gfile.makedirs(path.rsplit("/", 1)[0])
   with tf.io.gfile.GFile(path, "w") as f:
-    json.dump(o, f)
+    json.dump(o, f, cls=MyEncoder)
 
 
 def load_pickle(path):
