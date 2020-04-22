@@ -1,1 +1,239 @@
-{"56ddde6b9a695914005b9628": [{"text": "Nor", "probability": [0], "start_logit": -0.0010838016169145703, "end_logit": -0.0060225119814276695}, {"text": "Nortman", "probability": [1], "start_logit": -0.0010838016169145703, "end_logit": -5.1156535148620605}, {"text": "Franconian Nor", "probability": [2], "start_logit": -8.412710189819336, "end_logit": -0.2971270680427551}, {"text": "Low Franconian Nortman", "probability": [3], "start_logit": -8.192704200744629, "end_logit": -0.593107283115387}, {"text": "nian Nor", "probability": [4], "start_logit": -8.605375289916992, "end_logit": -0.3230353891849518}, {"text": "Low Franconian Nor", "probability": [5], "start_logit": -8.192704200744629, "end_logit": -0.8177948594093323}, {"text": "from", "probability": [6], "start_logit": -8.617711067199707, "end_logit": -0.4734323024749756}, {"text": "Franconian Nortman", "probability": [7], "start_logit": -8.412710189819336, "end_logit": -1.4267323017120361}, {"text": "nian Nortman", "probability": [8], "start_logit": -8.605375289916992, "end_logit": -1.2894293069839478}, {"text": "from Old Low Franconian Nortman", "probability": [9], "start_logit": -9.395971298217773, "end_logit": -0.710256814956665}, {"text": "Viking", "probability": [10], "start_logit": -10.744207382202148, "end_logit": -0.03769686073064804}, {"text": "from Old Low Franconian Nor", "probability": [11], "start_logit": -9.395971298217773, "end_logit": -1.6698074340820312}, {"text": "man, Viking", "probability": [12], "start_logit": -11.052054405212402, "end_logit": -0.11577892303466797}, {"text": "tman", "probability": [13], "start_logit": -11.314227104187012, "end_logit": -0.5656492114067078}, {"text": "Franco", "probability": [14], "start_logit": -8.412710189819336, "end_logit": -4.247557640075684}, {"text": ", Viking", "probability": [15], "start_logit": -12.631818771362305, "end_logit": -0.10210192948579788}, {"text": "from Old Low Franco", "probability": [16], "start_logit": -9.395971298217773, "end_logit": -3.6059279441833496}, {"text": "French", "probability": [17], "start_logit": -11.835108757019043, "end_logit": -1.5585260391235352}, {"text": "Old Low Franconian Nortman", "probability": [18], "start_logit": -12.995991706848145, "end_logit": -0.40367308259010315}, {"text": "Low Franco", "probability": [19], "start_logit": -8.192704200744629, "end_logit": -5.5501909255981445}], "56ddde6b9a695914005b9629": [{"text": "modern French normand", "probability": [0], "start_logit": -0.23067058622837067, "end_logit": -0.0009370247717015445}, {"text": ", modern French normand", "probability": [1], "start_logit": -1.7543436288833618, "end_logit": -0.0003890017978847027}, {"text": "t, modern French normand", "probability": [2], "start_logit": -3.5166923999786377, "end_logit": -0.001816694624722004}, {"text": "normand", "probability": [3], "start_logit": -6.739221096038818, "end_logit": -0.006806706078350544}, {"text": "modern French norman", "probability": [4], "start_logit": -0.23067058622837067, "end_logit": -7.2150044441223145}, {"text": "modern", "probability": [5], "start_logit": -0.23067058622837067, "end_logit": -8.722352027893066}, {"text": "d", "probability": [6], "start_logit": -9.64076042175293, "end_logit": -0.005339248571544886}, {"text": "Normant, modern French normand", "probability": [7], "start_logit": -9.321453094482422, "end_logit": -0.4501660466194153}, {"text": "French normand", "probability": [8], "start_logit": -9.799825668334961, "end_logit": -0.007969331927597523}, {"text": ", modern French norman", "probability": [9], "start_logit": -1.7543436288833618, "end_logit": -8.195357322692871}, {"text": "t, modern French norman", "probability": [10], "start_logit": -3.5166923999786377, "end_logit": -7.053833961486816}, {"text": "modern French", "probability": [11], "start_logit": -0.23067058622837067, "end_logit": -10.561692237854004}, {"text": "plural of Normant, modern French normand", "probability": [12], "start_logit": -10.043259620666504, "end_logit": -0.9830408692359924}, {"text": "Normant, modern French normand, which is itself borrowed", "probability": [13], "start_logit": -9.321453094482422, "end_logit": -1.80635404586792}, {"text": "of Normant, modern French normand", "probability": [14], "start_logit": -10.365381240844727, "end_logit": -0.7957038283348083}, {"text": "plural of Normant, modern French normand, which is itself borrowed", "probability": [15], "start_logit": -10.043259620666504, "end_logit": -1.2454478740692139}, {"text": ", plural of Normant, modern French normand", "probability": [16], "start_logit": -10.548630714416504, "end_logit": -0.8595986366271973}, {"text": ", modern", "probability": [17], "start_logit": -1.7543436288833618, "end_logit": -9.658177375793457}, {"text": "Normant, modern French normand, which is itself borrowed from Old Low Franconian", "probability": [18], "start_logit": -9.321453094482422, "end_logit": -2.2360401153564453}, {"text": "t, modern French normand, which is itself borrowed", "probability": [19], "start_logit": -3.5166923999786377, "end_logit": -8.073836326599121}], "56ddde6b9a695914005b962a": [{"text": "variously as Nortmannus", "probability": [0], "start_logit": -1.7732551097869873, "end_logit": -0.0018201452912762761}, {"text": "ized variously as Nortmannus", "probability": [1], "start_logit": -3.9739551544189453, "end_logit": -0.009149715304374695}, {"text": "r, Latinized variously as Nortmannus", "probability": [2], "start_logit": -7.020373821258545, "end_logit": -0.07439741492271423}, {"text": "as Nortmannus", "probability": [3], "start_logit": -7.352086067199707, "end_logit": -0.01772160455584526}, {"text": "Nortmannus", "probability": [4], "start_logit": -7.886904716491699, "end_logit": -0.007622725795954466}, {"text": "Northman' or directly from Old Norse Nor\u00f0ma\u00f0r, Latinized variously as Nortmannus", "probability": [5], "start_logit": -8.215201377868652, "end_logit": -0.11464198678731918}, {"text": "Latinized variously as Nortmannus", "probability": [6], "start_logit": -8.767860412597656, "end_logit": -0.06779773533344269}, {"text": "nus", "probability": [7], "start_logit": -8.8685302734375, "end_logit": -0.009153847582638264}, {"text": "tmannus", "probability": [8], "start_logit": -9.104689598083496, "end_logit": -0.01615774631500244}, {"text": "variously as Nortman", "probability": [9], "start_logit": -1.7732551097869873, "end_logit": -7.43291711807251}, {"text": "variously as Nortmannus,", "probability": [10], "start_logit": -1.7732551097869873, "end_logit": -8.095550537109375}, {"text": "r, Latin", "probability": [11], "start_logit": -7.020373821258545, "end_logit": -2.8783323764801025}, {"text": "variously as Nor", "probability": [12], "start_logit": -1.7732551097869873, "end_logit": -8.176287651062012}, {"text": "ized variously as Nortmannus,", "probability": [13], "start_logit": -3.9739551544189453, "end_logit": -6.138555526733398}, {"text": "\u00f0r, Latinized variously as Nortmannus", "probability": [14], "start_logit": -10.018295288085938, "end_logit": -0.2784281075000763}, {"text": "man' or directly from Old Norse Nor\u00f0ma\u00f0r, Latinized variously as Nortmannus, Normannus, or Nordmann", "probability": [15], "start_logit": -9.498215675354004, "end_logit": -1.358137845993042}, {"text": "'Northman' or directly from Old Norse Nor\u00f0ma\u00f0r, Latinized variously as Nortmannus", "probability": [16], "start_logit": -10.4181489944458, "end_logit": -0.4661635458469391}, {"text": "man' or directly from Old Norse Nor\u00f0ma\u00f0r, Latinized variously as Nortmannus", "probability": [17], "start_logit": -9.498215675354004, "end_logit": -1.7051559686660767}, {"text": "Northman' or directly from Old Norse Nor\u00f0ma\u00f0r, Latin", "probability": [18], "start_logit": -8.215201377868652, "end_logit": -3.032383680343628}, {"text": "variously", "probability": [19], "start_logit": -1.7732551097869873, "end_logit": -9.491448402404785}], "56ddde6b9a695914005b962b": [{"text": "or Nord", "probability": [0], "start_logit": -0.050056587904691696, "end_logit": -0.001138341729529202}, {"text": "or Nordmann", "probability": [1], "start_logit": -0.050056587904691696, "end_logit": -6.789228916168213}, {"text": ", or Nord", "probability": [2], "start_logit": -8.089118957519531, "end_logit": -0.3132506310939789}, {"text": "Norse Nor", "probability": [3], "start_logit": -9.288482666015625, "end_logit": -0.18530188500881195}, {"text": ", or Nordmann", "probability": [4], "start_logit": -8.089118957519531, "end_logit": -1.408424973487854}, {"text": "Nord", "probability": [5], "start_logit": -9.769292831420898, "end_logit": -0.045788269490003586}, {"text": "nus, or Nordmann", "probability": [6], "start_logit": -9.594657897949219, "end_logit": -0.8509742021560669}, {"text": "tman", "probability": [7], "start_logit": -10.198307991027832, "end_logit": -0.4292058050632477}, {"text": "nus, or Nord", "probability": [8], "start_logit": -9.594657897949219, "end_logit": -1.044911503791809}, {"text": "Normannus, or Nord", "probability": [9], "start_logit": -9.999493598937988, "end_logit": -1.339659571647644}, {"text": "Normannus, or Nordmann", "probability": [10], "start_logit": -9.999493598937988, "end_logit": -1.3500841856002808}, {"text": "or Nordmannus (recorded in Medieval Latin, 9th century) to mean 'Norseman", "probability": [11], "start_logit": -0.050056587904691696, "end_logit": -11.982229232788086}, {"text": "9th century) to mean 'Norse", "probability": [12], "start_logit": -11.416215896606445, "end_logit": -0.6756663918495178}, {"text": "Normannus, or Nordmannus (recorded in Medieval Latin, 9th century) to mean 'Norseman", "probability": [13], "start_logit": -9.999493598937988, "end_logit": -2.0996580123901367}, {"text": "9th century)", "probability": [14], "start_logit": -11.416215896606445, "end_logit": -1.1217565536499023}, {"text": "or", "probability": [15], "start_logit": -0.050056587904691696, "end_logit": -12.528508186340332}, {"text": "nus,", "probability": [16], "start_logit": -9.594657897949219, "end_logit": -3.1019792556762695}, {"text": ",", "probability": [17], "start_logit": -8.089118957519531, "end_logit": -4.613150119781494}, {"text": "tmannus, Normannus, or Nordmann", "probability": [18], "start_logit": -10.198307991027832, "end_logit": -2.5535080432891846}, {"text": "Norse", "probability": [19], "start_logit": -9.288482666015625, "end_logit": -3.564558267593384}]}
+What next? 
+    Done: Open up dev.json and copy out some examples - e.g. the Huguenot cases
+
+    squad: HasAns_exact: 73.00 - HasAns_f1: 76.83 - HasAns_total: 700.00 - NoAns_exact: 77.94 - NoAns_f1: 77.94 - NoAns_total: 630.00 - best_exact: 76.39 - best_exact_thresh: -3.35 - best_f1: 78.14 - best_f1_thresh: -3.35 - exact: 75.34 - f1: 77.35 - total: 1330.00
+
+    Examine results and pull out mistakes?
+
+
+Suspect don't need a huge improvement over the model to move up rankings
+
+Could validate dates and numbers and places - and then match to "where" - etc - feed that into another NN?
+Could validate maybe >50% of questions by re-asking with the answer - does that help? e.g. weed out or strengthen answers?
+    Possibly it also helps to identify the more complete answer sometimes?
+        "Replay the quesion with answer as subject" - example below - works anecdotally
+Occasionally see examples where questions reference prior questions - e.g. "When did it retract to inland formation" .. referring to rainforest in prior question
+    Could look at the subject or answer from prior questions? (https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Amazon_rainforest.html?model=nlnet%20(single%20model)%20(Microsoft%20Research%20Asia)&version=v2.0)
+Occasionally see examples where the question assumes general knowledge - e.g. Canterbury is in England (Huguenots)
+
+
+{
+    "x56ddde6b9a695914005b9627": -3.4811854362487793,
+    "x56ddde6b9a695914005b9628": -7.768636226654053,
+    "x56ddde6b9a695914005b9629": -6.36869478225708,
+    "x56ddde6b9a695914005b962a": -6.165402889251709
+}
+{
+    "x56ddde6b9a695914005b9628": "1622",
+    "x56ddde6b9a695914005b9629": "Montpellier",
+    "x56ddde6b9a695914005b962a": "1598"
+}
+
+{
+    What proclamation officially ended limited Huguenot autonomy?
+    "x56ddde6b9a695914005b9627": "Edict of Al\u00e8s",
+
+    France laid siege to Montpellier in what year?
+    "x56ddde6b9a695914005b9628": "1622",
+
+    What was the most important of these cities or towns?
+    "x56ddde6b9a695914005b9629": "Montpellier",
+
+    When was this proclamation issued?
+    "x56ddde6b9a695914005b962a": "1598"
+
+    When was this Edict of Alès issued?
+    "x56ddde6b9a695914005b962b": "1629"
+}
+proclamation = Edict of Alès
+"What proclamation officially ended limited Huguenot autonomy?"
+What is the subject of the question? 
+"proclamation" (-0.02)
+
+Threshold ... -2.75
+
+"What event was the worst example of Huguenot persecution?"
+"x56ddde6b9a695914005b9626": "St. Bartholomew's Day massacre",  -0.0933406874537468 - not confident enough - verify?
+
+"How did the Huguenots defend themselves?"
+"had their own militia" -7.109482765197754
+
+"What was a non-religious reason for the massacre?"
+"some of the Huguenots were nobles trying to establish separate centers of power in southern France"  3.7513415813446045 - not confident enough - verify?
+
+"How many French Catholics died during the Bartholomew's Day massacre?"
+"5,000 to 30,000" - incorrect and too confident - verify -5.096385478973389
+
+Any answer < -6 - leave it .. Any answer > 6 leave it
+Any other answer verify
+
+1. How many - sub in the number (the anwswer) "Did <<>> ..."
+2. What <<>> - sub in the answer "Was <<>> ..."
+
+
+Replay the quesion with answer as subject
+Q1: "What event was the worst example of Huguenot persecution?" (What Event)
+A1: "St. Bartholomew's Day massacre" -0.0933406874537468
+Q2: "Was St. Bartholomew's Day massacre the worst example of Huguenot persecution?"
+A2: "St. Bartholomew's Day massacre" -4.5789594650268555
+
+Verification:
+Substitute the answer into the question and ask again
+"<<How many>> French Catholics died during the Bartholomew's Day massacre?"
+"<<Did 5,000 to 30,000 French Catholics died during the Bartholomew's Day massacre?"
+Establishing context doesn't always work...
+Q: "What is the subject of the question?"
+C: "How many French Catholics died during the Bartholomew's Day massacre?"
+A: "How many French Catholics died during the Bartholomew's Day massacre"
+
+Q?: "How many of what?"
+
+Replay the quesion with answer as subject
+Q1: "How many French Catholics died during the Bartholomew's Day massacre?" 
+A1: "5,000 to 30,000" -5.096385478973389,
+Q2: "Did 5,000 to 30,000 French Catholics died during the Bartholomew's Day massacre?"
+A2: "5,000 to 30,000 were killed" -1.983237624168396
+
+Identify the subject - the thing to replace for a "How Many" question
+C: "How many French Catholics died during the Bartholomew's Day massacre?"
+Q: "How many of what?" A: "French Catholics" C:  -3.0660459995269775
+Q: "When?" A: "Bartholomew's Day" C: -0.8997901082038879
+Q: "How?" A:  "How many French Catholics died during the Bartholomew's Day massacre?" C: -2.054716110229492
+Q: "What?" A: "How many French Catholics died during the Bartholomew's Day massacre?" C: -2.0864851474761963
+
+
+Replay - still not confident - better tho - maybe electra large would do better?
+Q1: "What was a non-religious reason for the massacre?"
+A1: "some of the Huguenots were nobles trying to establish separate centers of power in southern France"  3.7513415813446045 - not confident - verify?
+Q2: "some of the Huguenots were nobles trying to establish separate centers of power in southern France was a non-religious reason for the massacre?"
+A2: "political" 0.20153114199638367
+
+C: "some of the Huguenots were nobles trying to establish separate centers of power in southern France"
+
+Q2: "What was a non-religious reason for the massacre?"
+A2:  "Huguenots" 0.6210666298866272
+remove "non-"
+Q3: "What was a religious reason for the massacre?"
+A3:  "Huguenots" 3.886134624481201
+
+Put the question at the end - however this is gonna give strong answers irrespective of the non-xxx
+C: "some of the Huguenots were nobles trying to establish separate centers of power in southern France was a reason for the massacre"
+Q2: "What was a non-religious reason for the massacre?"
+A2:  "trying to establish separate centers of power" -4.33355188369751
+remove "non-"
+Q3: "What was a religious reason for the massacre?"
+A3:  "Huguenots" 5.407693386077881
+
+
+
+
+C: "Other evidence of the Walloons and Hugu..."
+Q: "Where did Huguenots and Walloons settle in England?"
+A: Canterbury -2.801577091217041
+Q: "What social construct did Huguenot refugees in Canterbury practice?"
+A: "economic separation"  -3.697214365005493
+Q; "What is located on the site of The Weaving House currently?"
+A: "a restaurant" -4.454469203948975
+
+All could be verified 
+    "What is" 
+    "Where did" - however we'd regress there if not careful
+
+
+Try getting the question back out using the answer - then comparing the question and the retrieved question
+Interesting - there's no mention of England in the text - it's assumed general knowledge ....
+.... Question refers to a location not mentioned in the text?
+... Say I found out that Canterbury was in England - then what can i do?
+.. add "in England" to the text - gets a stronger score
+.. look at text, any reference to a place or a date/time we can add context but only if it's referenced in a question? otherwise why?
+
+C: "Canterbury is in Kent in England..."
+Q: "Where did Huguenots and Walloons settle in England?"
+A: "Canterbury" -0.5710761547088623 ... THIS WOULD HAVE REGRESSED THE SCORE...?
+Q: "Did Huguenots and Walloons settle in Canterbury?"
+A: -4.124706268310547
+
+C: "Canterbury is in England"
+Q: "Where did Huguenots and Walloons settle in England?"
+A: "Cantebury" -2.6976096630096436
+
+
+C: "Walloons and Huguenots in Canterbury <<in England>>"
+Q: "Where did Huguenots and Walloons settle in England?"
+A: "Cantebury" -4.720438480377197
+
+
+
+Q: "What social construct did Huguenot refugees in Canterbury practice?"
+Q1: "Did Huguenot refugees in Canterbury practice economic separation?"
+A: -5.3075947761535645
+Q; "Is a restaurant located on the site of The Weaving House currently?"
+A: -5.533841133117676
+
+
+C: "What social construct did Huguenot refugees in Canterbury practice?"
+Q: "What is the subject of the question?"
+A: social construct -2.7487027645111084
+
+Other evidence of the Walloons and Huguenots in Canterbury in England includes a block of houses in Turnagain Lane, where weavers' windows survive on the top floor, as many Huguenots worked as weavers. The Weavers, a half-timbered house by the river, was the site of a weaving school from the late 16th century to about 1830. (It has been adapted as a restaurant—see illustration above. The house derives its name from a weaving school which was moved there in the last years of the 19th century, reviving an earlier use.) Others refugees practised the variety of occupations necessary to sustain the community as distinct from the indigenous population. Such economic separation was the condition of the refugees' initial acceptance in the City. They also settled elsewhere in Kent, particularly Sandwich, Faversham and Maidstone—towns in which there used to be refugee churches.
+
+"What is" - replace with "Is <<answer>> "
+
+What is the minimum percent of alcohol content a German law requires all spirits and liqueurs to have?
+"Is 25 percent the minimum percent of alcohol content a German law requires all spirits and liqueurs to have?"
+
+What is European Union Law?
+"Is a body of treaties and legislation European Union Law?"
+
+
+
+
+
+
+"Who is" - replace with "Is <<answer>> "
+"What was" - replace with "Was <<answer>> "
+"Who was" - replace with "Was <<answer>> "
+"What are " - replace with "Are <<answer>> "
+"Who did" - replace with "Did <<answer>> "
+"What did " - replace with "Did <<answer>> "
+"How many" ... "are there" - replace with "Are there <<answer>> " - and remove "are there" from the text too
+"How many" ... "do/does" - start with "does ... <<answer>> have ..."
+
+How many total judges are there in the EU? "Are there 4 total judges in the EU?"
+How many total female judges are there in the EU? "Are there 42 total female judges in the EU?"
+
+How many votes in total does the Council have? "Does the council have 43 votes in total ?"
+
+How many paid holiday days does the Working Time directive require workers to have each year? 
+"Does the Working time directive require works to have each year <<43>> paid holiday days"
+
+How many paid holiday days do most member states require? "Do most member states require <<43>> paid holiday days?"
+
+How many non paid holidays does the Working time directive require workers to have each year?
+How many original treaties establishing the EU protected fundamental rights?
+
+What was not the view of the German Constitutional Court from Solange I and Solange II?
+"Was <xxx> not the view of the German ..."
+
+
+For each of the 28 member states, how many Commissioner's are represented for each one?
+Currently, how many votes out of the 352 total votes are needed for a majority?
+
+
+"What <xxx> did"
+"What <xxx> does"
+"What <yyy> is"
+What type of law does not make Eu institutions and member states follow the law?
+???
+
+What type of company is Van Gend en Loos?
+"Is Van Gen en Loos a <<postal>> type of company?" -- other one - don't repeat the description
+"Is Van Gen en Loos a <<postal company>>?"
+
+What percentage does the Amazon represents in rainforests on the planet?
+"Does the Amazon represent in rainforests on the planet over half"
+"Does over half the Amazon represent in rainforests on the planet "
+
+What event was the worst example of Huguenot persecution?
+"Was the worst example of Huguenot persecution St. Bartholomew's Day massacre?"
+"Was St. Bartholomew's Day massacre the worst example of Huguenot persecution?"
