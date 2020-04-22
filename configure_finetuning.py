@@ -121,6 +121,7 @@ class FinetuningConfig(object):
     self.qa_preds_file = os.path.join(qa_topdir, "{:}_preds.json").format
     self.nbest_file = os.path.join(qa_topdir, "{:}_nbest.json").format
     self.qa_na_file = os.path.join(qa_topdir, "{:}_null_odds.json").format
+    self.qa_image_dir = os.path.join(qa_topdir, "squad_image_dir").format
     self.preprocessed_data_dir = os.path.join(
         pretrained_model_dir, "finetuning_tfrecords",
         task_names_str + "_tfrecords" + ("-debug" if self.debug else ""))
