@@ -135,6 +135,7 @@ def get_raw_scores(dataset, preds):
           print('Missing prediction for %s' % qid)
           continue
         a_pred = preds[qid]
+        print('%s, %s' % (qid,a_pred))
         # Take max over all gold answers
         exact_scores[qid] = max(compute_exact(a, a_pred) for a in gold_answers)
         f1_scores[qid] = max(compute_f1(a, a_pred) for a in gold_answers)
@@ -303,6 +304,7 @@ def main():
     histogram_na_prob(na_probs, has_ans_qids, OPTS.out_image_dir, 'hasAns')
     histogram_na_prob(na_probs, no_ans_qids, OPTS.out_image_dir, 'noAns')
   if OPTS.out_file:
+    # Here - also dump out exact_raw?
     with tf.io.gfile.GFile(OPTS.out_file, 'w') as f:
       json.dump(out_eval, f)
   else:
