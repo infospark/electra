@@ -71,7 +71,6 @@ def set_opts(config: configure_finetuning.FinetuningConfig, split):
       out_file=config.qa_eval_file("squad"),
       na_prob_file=config.qa_na_file("squad"),
       na_prob_thresh=config.qa_na_threshold,
-      out_image_dir=config.qa_image_dir("squad"),
       verbose=True
   )
 
