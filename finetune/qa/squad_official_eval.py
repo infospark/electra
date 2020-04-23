@@ -290,7 +290,7 @@ def main():
                                         OPTS.na_prob_thresh)
   f1_thresh = apply_no_ans_threshold(f1_raw, na_probs, qid_to_has_ans,
                                      OPTS.na_prob_thresh)
-  for qid, s in scores.items():
+  for qid, s in f1_thresh.items():
     print('%s,%d' % (qid, s))
 
   out_eval = make_eval_dict(exact_thresh, f1_thresh)
