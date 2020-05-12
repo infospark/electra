@@ -104,7 +104,7 @@ class SpanBasedQAScorer(scorer.Scorer):
     for example in self._eval_examples:
       example_id = example.qas_id if "squad" in self._name else example.qid
       features = self._task.featurize(example, False, for_eval=True)
-
+      
       prelim_predictions = []
       # keep track of the minimum score of null start+end of position 0
       score_null = 1000000  # large and positive
@@ -216,8 +216,8 @@ class SpanBasedQAScorer(scorer.Scorer):
                 text=final_text,
                 start_logit=pred.start_logit,
                 end_logit=pred.end_logit,
-                start_index=pred.start_index,
-                end_index=pred.end_index))
+                start_index=orig_doc_start,
+                end_index=orig_doc_end))
 
       # In very rare edge cases we could have no valid predictions. So we
       # just create a nonce prediction in this case to avoid failure.
@@ -315,6 +315,8 @@ def get_final_text(config: configure_finetuning.FinetuningConfig, pred_text,
                    orig_text):
   """Project the tokenized prediction back to the original text."""
 
+  print("pred_text: " + pred_text)
+  print("orig_text: " + orig_text)
   # When we created the data, we kept track of the alignment between original
   # (whitespace tokenized) tokens and our WordPiece tokenized tokens. So
   # now `orig_text` contains the span of our original text corresponding to the
