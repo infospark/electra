@@ -104,7 +104,7 @@ class SpanBasedQAScorer(scorer.Scorer):
     for example in self._eval_examples:
       example_id = example.qas_id if "squad" in self._name else example.qid
       features = self._task.featurize(example, False, for_eval=True)
-      
+      tokens = feature[self._name + "_tokens"]
       prelim_predictions = []
       # keep track of the minimum score of null start+end of position 0
       score_null = 1000000  # large and positive
@@ -194,6 +194,7 @@ class SpanBasedQAScorer(scorer.Scorer):
         orig_doc_end = feature[
             self._name + "_token_to_orig_map"][pred.end_index]
         orig_tokens = example.doc_tokens[orig_doc_start:(orig_doc_end + 1)]
+        print ("first tokens: " + " ".join(example.doc_tokens[0:2]))
         tok_text = " ".join(tok_tokens)
 
         # De-tokenize WordPieces that have been split off.
@@ -315,8 +316,6 @@ def get_final_text(config: configure_finetuning.FinetuningConfig, pred_text,
                    orig_text):
   """Project the tokenized prediction back to the original text."""
 
-  print("pred_text: " + pred_text)
-  print("orig_text: " + orig_text)
   # When we created the data, we kept track of the alignment between original
   # (whitespace tokenized) tokens and our WordPiece tokenized tokens. So
   # now `orig_text` contains the span of our original text corresponding to the
