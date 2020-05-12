@@ -244,8 +244,8 @@ class SpanBasedQAScorer(scorer.Scorer):
         output["probability"] =   [i]
         output["start_logit"] = entry.start_logit
         output["end_logit"] = entry.end_logit
-        output["orig_doc_start"] = entry.orig_doc_start
-        output["orig_doc_end"] = entry.orig_doc_end
+        output["start_index"] = entry.start_index
+        output["end_index"] = entry.end_index
         nbest_json.append(dict(output))
 
       assert len(nbest_json) >= 1
