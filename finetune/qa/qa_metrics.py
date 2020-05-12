@@ -179,7 +179,7 @@ class SpanBasedQAScorer(scorer.Scorer):
           reverse=True)
 
       _NbestPrediction = collections.namedtuple(  # pylint: disable=invalid-name
-          "NbestPrediction", ["text", "start_logit", "end_logit"])
+          "NbestPrediction", ["text", "start_logit", "end_logit", "orig_doc_start", "orig_doc_end"])
 
       seen_predictions = {}
       nbest = []
@@ -215,13 +215,15 @@ class SpanBasedQAScorer(scorer.Scorer):
             _NbestPrediction(
                 text=final_text,
                 start_logit=pred.start_logit,
-                end_logit=pred.end_logit))
+                end_logit=pred.end_logit,
+                orig_doc_start=orig_doc_start,
+                orig_doc_end=orig_doc_end))
 
       # In very rare edge cases we could have no valid predictions. So we
       # just create a nonce prediction in this case to avoid failure.
       if not nbest:
         nbest.append(
-            _NbestPrediction(text="empty", start_logit=0.0, end_logit=0.0))
+            _NbestPrediction(text="empty", start_logit=0.0, end_logit=0.0, orig_doc_start=0, orig_doc_end=0))
 
       assert len(nbest) >= 1
 
@@ -242,6 +244,8 @@ class SpanBasedQAScorer(scorer.Scorer):
         output["probability"] =   [i]
         output["start_logit"] = entry.start_logit
         output["end_logit"] = entry.end_logit
+        output["orig_doc_start"] = entry.orig_doc_start
+        output["orig_doc_end"] = entry.orig_doc_end
         nbest_json.append(dict(output))
 
       assert len(nbest_json) >= 1
