@@ -104,7 +104,7 @@ class SpanBasedQAScorer(scorer.Scorer):
     for example in self._eval_examples:
       example_id = example.qas_id if "squad" in self._name else example.qid
       features = self._task.featurize(example, False, for_eval=True)
-      tokens = feature[self._name + "_tokens"]
+      
       prelim_predictions = []
       # keep track of the minimum score of null start+end of position 0
       score_null = 1000000  # large and positive
