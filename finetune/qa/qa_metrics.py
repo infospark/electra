@@ -102,8 +102,11 @@ class SpanBasedQAScorer(scorer.Scorer):
     scores_diff_json = collections.OrderedDict()
 
     for example in self._eval_examples:
+
       example_id = example.qas_id if "squad" in self._name else example.qid
       features = self._task.featurize(example, False, for_eval=True)
+      
+      print ("first tokens: " + " ".join(example.doc_tokens[0:2]))
       
       prelim_predictions = []
       # keep track of the minimum score of null start+end of position 0
@@ -194,7 +197,7 @@ class SpanBasedQAScorer(scorer.Scorer):
         orig_doc_end = feature[
             self._name + "_token_to_orig_map"][pred.end_index]
         orig_tokens = example.doc_tokens[orig_doc_start:(orig_doc_end + 1)]
-        print ("first tokens: " + " ".join(example.doc_tokens[0:2]))
+        
         tok_text = " ".join(tok_tokens)
 
         # De-tokenize WordPieces that have been split off.
