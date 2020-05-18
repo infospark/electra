@@ -1,0 +1,40 @@
+qid,question,gold,pred,scorex,scorey,score,null_odds
+5ad0178577cf76001a68698c,Where is the center of economic activity for the United States?,,Southern California,0.0,0.0,1,-2.491945505142212
+5ad01a6277cf76001a686a0e,How many people live in Riverside? ,,over four million,0.0,0.0,1,-1.93478512763977
+5ad01f0f77cf76001a686ac4,"What county are Los Angeles, Orange, San Diego, San Bernardino, and Riverside located in?",,the five most populous in the state,0.0,0.0,1,-2.386950492858886
+5ad0228a77cf76001a686b58,Who visits Palm Springs for the beaches?,,locals and tourists,0.0,0.0,1,-1.702613949775695
+5ad02cde77cf76001a686cc6,What country did California once rule?,,Mexico,0.0,0.0,1,-1.201253652572631
+5ad02ff177cf76001a686da2,What type of club is the California Automobile State Association?,,AAA Auto Clubs,0.0,0.0,1,-1.592744708061218
+5ad02ff177cf76001a686da5,What type of groups divides California into only north and central regions?,,regional tourism groups,0.0,0.0,1,-2.215286493301391
+5ad0316a77cf76001a686de4,What are the second and third most populated megalopolis after Southern California?,,Great Lakes Megalopolis,0.0,0.0,1,-2.282655477523803
+5ad0394877cf76001a686e57,What ocean has the Transverse and Peninsular Ranges?,,Pacific,0.0,0.0,1,-1.60657525062561
+5ad0410977cf76001a686eff,What are the globally recognized anchor cities known for?,,the hub of economic activity for its respective region and being home to many tourist destinations,0.0,0.0,1,-0.5388972759246821
+5ad0483977cf76001a686f8c,What locations are headquartered at the California University at Irvine?,,"Irvine Spectrum, West Irvine",0.0,0.0,1,-2.50064730644226
+5ad04b2377cf76001a686f92,What is the central business district of downtown San Diego?,,Downtown San Diego,0.0,0.0,1,-2.586505174636841
+5ad04b2377cf76001a686f94,What business districts are located in Northern downtown San Diego?,,"Carmel Valley, Del Mar Heights, Mission Valley, Rancho Bernardo, Sorrento Mesa, and University City",0.0,0.0,1,-0.966626286506652
+5ad04bfc77cf76001a686f98,What is the busiest airport by passenger volume in the United States?,,Los Angeles International Airport,0.0,0.0,1,-1.434950113296508
+5ad04de377cf76001a686fa6,What is home to Southern California?,,the Port of Los Angeles,0.0,0.0,1,-1.3171247243881221
+5ad04f7977cf76001a686fb9,What NAB teams are from Southern California?,,"Los Angeles Rams, San Diego Chargers",0.0,0.0,1,-1.4613227844238281
+5ad23fded7d075001a4288fc,When did the Huguenot movement start?,,1562,0.0,0.0,1,-1.611035823822021
+5ad24b60d7d075001a428be4,When was the second Huguenot rebellion?,,1629,0.0,0.0,1,-0.48861020803451505
+5ad25c69d7d075001a428ea6,What prominent South African family distilled brandy and were Huguenots?,,Blignaut,0.0,0.0,1,-0.492950141429901
+5ad25d49d7d075001a428eef,In what year did Rene Goulaine de Laudonniere leave his position as a lieutenant for Jean Ribault?,,1564,0.0,0.0,1,-1.7793773412704461
+5ad26ba1d7d075001a42935b,In what year was Andrew Lortie born?,,André Lortie,0.0,0.0,1,-0.09699192643165501
+5ad240eed7d075001a428943,What was the biggest religion in Sweden?,,Protestant,0.0,0.0,1,-0.48684141039848305
+5ad2424cd7d075001a42898b,What religion was Hugues Capet?,,Protestants,0.0,0.0,1,-2.5211539268493652
+5ad2447dd7d075001a428a68,In what nation did the Gallicans get their start?,,French,0.0,0.0,1,-0.059417258948087005
+5ad2447dd7d075001a428a69,What French city was Jacques Lefevre from?,,Paris,0.0,0.0,1,-0.9299326539039611
+5a38bd58a4b263001a8c18f0,How much oil did Nixon give to states in 1974?,,the same amount of domestic oil,0.0,0.0,1,-1.162016987800598
+5a38bf63a4b263001a8c18f8,What is the name of the President that imposed the speed limit?,,Bill Clinton,0.0,0.0,1,-0.37147441506385803
+5a38bf63a4b263001a8c18fb,What speed did the National Highway Designation Act prevent you from going beyond?,,89 km/h,0.0,0.0,1,-1.98821222782135
+5a66413dc2b11c001a425ec8,What did the Velvet revolution hope to accomplish in India?,,Gandhi's campaigns for independence from the British Empire,0.0,0.0,1,-1.7070139646530151
+5a66413dc2b11c001a425eca,To what countries did the 1919 Revolution want to bring independence to from Russia?,,Baltic countries,0.0,0.0,1,-2.036025047302246
+5a664612c2b11c001a425f0a,What had happened to Vice President Agnew's status in modern times?,,it has become a code-word,0.0,0.0,1,-2.021553993225097
+5a665338846392001a1e1aca,In what other way can disobedience be applied to international organizations and governments?,,protest,0.0,0.0,1,-2.6017649173736572
+5a665870846392001a1e1af3,What does non-revolutionary civil disobedience want to overthrow?,,laws,0.0,0.0,1,-0.37309008836746205
+5a665b56846392001a1e1b1d,How long did Julia Butterfly Hill live near a nuclear-missile installation?,,738 days,0.0,0.0,1,-1.514593243598938
+5a666b43846392001a1e1c12,What court case was eventually the result of Joseph Haas sending and e-mail to the New Hampshire city council?,,FCC v. Pacifica Foundation,0.0,0.0,1,-2.256135702133178
+5a668b33f038b7001ab0bf92,How many missles were at the nuclear test site?,,13,0.0,0.0,1,-1.609605312347412
+5a668ef8f038b7001ab0bfdd,What group decided to enter a blind plea without any jailtime?,,activists,0.0,0.0,1,-1.289978146553039
+5a66978af038b7001ab0c029,What kind of press coverage is there when defendants plead not guilty?,,reduced,0.0,0.0,1,-1.245815515518188
+5a66a55af038b7001ab0c07f,What is the most important thing when deciding if a law is moral?,,whether it would do more harm than good,0.0,0.0,1,-2.698258638381958

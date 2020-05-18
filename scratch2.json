@@ -1,10 +1,23 @@
 What next? 
+
+
+
+    It's gonna be useful to join the scores, questions, answers and top 3 null odds and analyse them
+        Take all the "What is/was" questions and take score for that
+        
+        Apply the standard score to the results of that validation
+        Re ask the top N nbest answers too - see which matches best?
+        Could validate ones that are below -6?
+            Check the top NBest scores - simply compare with the target value?
+
+        
     Done: Open up dev.json and copy out some examples - e.g. the Huguenot cases
 
-    squad: HasAns_exact: 73.00 - HasAns_f1: 76.83 - HasAns_total: 700.00 - NoAns_exact: 77.94 - NoAns_f1: 77.94 - NoAns_total: 630.00 - best_exact: 76.39 - best_exact_thresh: -3.35 - best_f1: 78.14 - best_f1_thresh: -3.35 - exact: 75.34 - f1: 77.35 - total: 1330.00
+    Done: 1squad: HasAns_exact: 73.00 - HasAns_f1: 76.83 - HasAns_total: 700.00 - NoAns_exact: 77.94 - NoAns_f1: 77.94 - NoAns_total: 630.00 - best_exact: 76.39 - best_exact_thresh: -3.35 - best_f1: 78.14 - best_f1_thresh: -3.35 - exact: 75.34 - f1: 77.35 - total: 1330.00
 
-    Examine results and pull out mistakes?
+    Done :§Examine results and pull out mistakes?
 
+    Done: Output individual q&a scores etc
 
 Suspect don't need a huge improvement over the model to move up rankings
 
@@ -16,6 +29,24 @@ Occasionally see examples where questions reference prior questions - e.g. "When
     Could look at the subject or answer from prior questions? (https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Amazon_rainforest.html?model=nlnet%20(single%20model)%20(Microsoft%20Research%20Asia)&version=v2.0)
 Occasionally see examples where the question assumes general knowledge - e.g. Canterbury is in England (Huguenots)
 
+What is the term that describes what  happened in 1979 when the US prices of oil were higher?
+Is second oil shock the term that describes what  happened in 1979 when the US prices of oil were higher?
+    Well .. -3.6774511337280273 - the answer got weaker result ...
+   
+    
+57106d2fb654c5140001f8f0 What was the most important of these cities or towns? Montpellier  -6.32280969619751
+    Was Montpellier the most important of these cities or towns? -5.445657730102539
+
+    57107932a58dae1900cd69cc What was the name of the first Huguenot church in the New World?  -4.415177345275879
+    Was L'Eglise du Saint-Esprit the name of the first Huguenot church in the New World?  -4.238252639770508
+    Was L'Église française à la Nouvelle-Amsterdam the name of the first Huguenot church in the New World?  -6.583484172821045
+
+
+
+
+
+5ad25b9ed7d075001a428e6f What was Maria de la Quellerie's fathers name? "commander Jan van Riebeeck" -4.386563301086426
+    Was Maria de la Quellerie's fathers name commander Jan van Riebeeck? -0.09483642131090164
 
 {
     "x56ddde6b9a695914005b9627": -3.4811854362487793,

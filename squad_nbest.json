@@ -1,0 +1,164 @@
+{
+    "5705e33f52bb89140068964e": [
+        {
+            "text": "Protestants as a noble man who respected people's dignity and lives",
+            "probability": [
+                0
+            ],
+            "start_logit": -10.057866096496582,
+            "end_logit": -0.5437684059143066
+        },
+        {
+            "text": "He was regarded by the Gallicans and Protestants as a noble man who respected people's dignity and lives",
+            "probability": [
+                1
+            ],
+            "start_logit": -9.997795104980469,
+            "end_logit": -0.9557101130485535
+        },
+        {
+            "text": "noble man who respected people's dignity and lives",
+            "probability": [
+                2
+            ],
+            "start_logit": -10.770877838134766,
+            "end_logit": -0.512304961681366
+        },
+        {
+            "text": "respected people's dignity and lives",
+            "probability": [
+                3
+            ],
+            "start_logit": -10.956398963928223,
+            "end_logit": -0.616121768951416
+        },
+        {
+            "text": "regarded by the Gallicans and Protestants as a noble man who respected people's dignity and lives",
+            "probability": [
+                4
+            ],
+            "start_logit": -10.518233299255371,
+            "end_logit": -1.1590365171432495
+        },
+        {
+            "text": "a noble man who respected people's dignity and lives",
+            "probability": [
+                5
+            ],
+            "start_logit": -11.240276336669922,
+            "end_logit": -0.4857405126094818
+        },
+        {
+            "text": "Hugues hypothesis\" argues that the name was derived by association with Hugues Capet",
+            "probability": [
+                6
+            ],
+            "start_logit": -10.379173278808594,
+            "end_logit": -1.9386051893234253
+        },
+        {
+            "text": "He was regarded by the Gallicans",
+            "probability": [
+                7
+            ],
+            "start_logit": -9.997795104980469,
+            "end_logit": -2.5161728858947754
+        },
+        {
+            "text": "Gallicans",
+            "probability": [
+                8
+            ],
+            "start_logit": -11.117237091064453,
+            "end_logit": -1.4349535703659058
+        },
+        {
+            "text": "Hugues hypothesis",
+            "probability": [
+                9
+            ],
+            "start_logit": -10.379173278808594,
+            "end_logit": -2.224214553833008
+        },
+        {
+            "text": "Hugues Capet",
+            "probability": [
+                10
+            ],
+            "start_logit": -10.701301574707031,
+            "end_logit": -1.9034335613250732
+        },
+        {
+            "text": "derived by association with Hugues Capet",
+            "probability": [
+                11
+            ],
+            "start_logit": -10.580124855041504,
+            "end_logit": -2.080129623413086
+        },
+        {
+            "text": "was regarded by the Gallicans and Protestants as a noble man who respected people's dignity and lives",
+            "probability": [
+                12
+            ],
+            "start_logit": -11.58186149597168,
+            "end_logit": -1.082785725593567
+        },
+        {
+            "text": "association with Hugues Capet",
+            "probability": [
+                13
+            ],
+            "start_logit": -10.696938514709473,
+            "end_logit": -2.0526888370513916
+        },
+        {
+            "text": "Hugues hypothesis\" argues that the name was derived by association with Hugues Capet, king of France, who reigned long before the Reformation",
+            "probability": [
+                14
+            ],
+            "start_logit": -10.379173278808594,
+            "end_logit": -2.3927526473999023
+        },
+        {
+            "text": "The \"Hugues hypothesis\" argues that the name was derived by association with Hugues Capet",
+            "probability": [
+                15
+            ],
+            "start_logit": -10.832271575927734,
+            "end_logit": -1.9543564319610596
+        },
+        {
+            "text": "the name was derived by association with Hugues Capet, king of France",
+            "probability": [
+                16
+            ],
+            "start_logit": -10.62569808959961,
+            "end_logit": -2.1669387817382812
+        },
+        {
+            "text": "Gallicans and Protestants as a noble man who respected people's dignity and lives",
+            "probability": [
+                17
+            ],
+            "start_logit": -11.117237091064453,
+            "end_logit": -1.6880086660385132
+        },
+        {
+            "text": "He was regarded by the Gallicans and Protestants as a noble man",
+            "probability": [
+                18
+            ],
+            "start_logit": -9.997795104980469,
+            "end_logit": -2.8193187713623047
+        },
+        {
+            "text": "by association with Hugues Capet",
+            "probability": [
+                19
+            ],
+            "start_logit": -10.624547004699707,
+            "end_logit": -2.214470386505127
+        }
+    ]
+}

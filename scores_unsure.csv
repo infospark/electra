@@ -1,0 +1,307 @@
+qid,question,gold,pred,scorex,scorey,score,null_odds
+5705e26d75f01819005e76d5,"Despite being traditionall described as ""eight counties"", how many counties does this region actually have?",10 counties,10,1.0,1.0,1,-3.119257926940918
+5705e26d75f01819005e76d8,The reasons for the las two counties to be added are based on what?,historical political divisions,historical political divisions,1.0,1.0,0,-0.7104753851890561
+5ad0178577cf76001a68698b,What additional two counties make ten counties into the traditional definition of SoCal include?,,Kern and San Luis Obispo,0.0,0.0,0,-4.916696071624756
+5ad0178577cf76001a68698c,Where is the center of economic activity for the United States?,,Southern California,0.0,0.0,1,-2.491945505142212
+5705e33f52bb89140068964e,What is the name of the state that the megaregion expands to in the east?,Nevada,Nevada,1.0,1.0,1,-3.798012256622314
+5ad01a6277cf76001a686a0e,How many people live in Riverside? ,,over four million,0.0,0.0,1,-1.93478512763977
+5705e4fe75f01819005e7704,What is the name of the water body that is found to the east?,Colorado River,Colorado River,1.0,1.0,1,-4.414095878601074
+5705e4fe75f01819005e7705,What is the name of the desert on the border of Arizona?,Colorado Desert,Colorado Desert,1.0,1.0,1,-4.744115352630615
+5ad01c8877cf76001a686a65,What desert is to the south near Nevada?,,Mojave Desert,0.0,0.0,0,-3.856767892837524
+5705e63175f01819005e7723,What is the eighth most populous city in the nation?,San Diego,San Diego,1.0,1.0,1,-4.540153503417969
+5ad01e4677cf76001a686aa6,What are two of the three major cities located in southern California?,,Los Angeles and San Diego,0.0,0.0,0,-3.066280603408813
+5705e99452bb891400689689,What country are all the counties in?,United States,United States,1.0,1.0,0,-1.343167066574096
+5ad01f0f77cf76001a686ac3,How many populous counties are in the United States?,,15,0.0,0.0,0,-3.153225421905517
+5ad01f0f77cf76001a686ac4,"What county are Los Angeles, Orange, San Diego, San Bernardino, and Riverside located in?",,the five most populous in the state,0.0,0.0,1,-2.386950492858886
+5705eb3375f01819005e7768,"Other than Universal and Warner Brothers, what other company runs a major record company?",Sony,Sony,1.0,1.0,1,-4.044422626495361
+5ad0206677cf76001a686afb,What three industries are centered in Hollywood?,,"motion picture, television, and music",0.0,0.0,0,-2.894037008285522
+5ad0206677cf76001a686afd,What major companies are headquartered in Los Angeles? ,,"Walt Disney Company (which also owns ABC), Sony Pictures, Universal, MGM, Paramount Pictures, 20th Century Fox, and Warner Brothers",0.0,0.0,0,-3.582415103912353
+5705ec1675f01819005e776e,"Other than surf, what other culture is southern California home to?",skateboard,skateboard,1.0,1.0,1,-4.823408126831055
+5705ec1675f01819005e7772,What is the shortened name of the annual yacht race that takes place?,Transpac,Transpac,1.0,1.0,1,-4.246502876281738
+5ad0220a77cf76001a686b2a,Where are No Fear and RCVA headquartered?,,Southern California,0.0,0.0,0,-3.894468307495117
+5705eccb52bb8914006896b9,Other than the desert city why do many locals and tourists frequent southern California?,beaches,popular beaches,0.0,0.666667,0,-3.181202411651611
+5ad0228a77cf76001a686b58,Who visits Palm Springs for the beaches?,,locals and tourists,0.0,0.0,1,-1.702613949775695
+5705edcd52bb8914006896ce,Point Conception is an example of a landmark among what boundary of southern California?,northern,Tehachapi Mountains,1.0,1.0,1,-4.794703483581543
+5ad02cde77cf76001a686cc6,What country did California once rule?,,Mexico,0.0,0.0,1,-1.201253652572631
+5705f13d52bb8914006896f2,In which year did the newspaper change its previous definition?,1999,1900,0.0,0.0,0,-4.160041809082031
+5705f36452bb89140068971b,Which mountain range influenced the split of the regions?,Tehachapis,Tehachapis,1.0,1.0,1,-3.895904541015625
+5ad02ff177cf76001a686da2,What type of club is the California Automobile State Association?,,AAA Auto Clubs,0.0,0.0,1,-1.592744708061218
+5ad02ff177cf76001a686da5,What type of groups divides California into only north and central regions?,,regional tourism groups,0.0,0.0,1,-2.215286493301391
+5ad0316a77cf76001a686de4,What are the second and third most populated megalopolis after Southern California?,,Great Lakes Megalopolis,0.0,0.0,1,-2.282655477523803
+5705fc3a52bb89140068976c,What is the low end of the temperature range in summer?,60's,90-60's,0.0,0.0,0,-3.534227609634399
+5705fc3a52bb89140068976e,What is the high end of the temperature range in winter?,70,70-50's,0.0,0.0,0,-4.741403102874756
+5705fd8475f01819005e7840,What term best describes southern California's collection of landscapes?,varied,"geologic, topographic, and natural ecosystem",0.0,0.571429,0,-4.392830848693848
+5705fd8475f01819005e7844,The mountain ranges tail off into what kind of geographical formation?,valleys,interior valleys,1.0,1.0,1,-3.497481107711792
+5ad0394877cf76001a686e57,What ocean has the Transverse and Peninsular Ranges?,,Pacific,0.0,0.0,1,-1.60657525062561
+5ad0394877cf76001a686e59,What area has the most diversity of anywhere in the country?,,Southern California,0.0,0.0,0,-3.513396501541137
+5705ffde52bb891400689788,The earthquake forecast models what features of earthquakes in California?,occurrence,occurrence,1.0,1.0,1,-3.240048885345459
+5ad0410977cf76001a686efe,What are regions anchored by that are recognized globally?,,a city,0.0,0.0,0,-3.841857433319092
+5ad0410977cf76001a686eff,What are the globally recognized anchor cities known for?,,the hub of economic activity for its respective region and being home to many tourist destinations,0.0,0.0,1,-0.5388972759246821
+570603c475f01819005e7883,What does southern California have a reputation for?,high growth rates,high growth rates,1.0,1.0,1,-4.6557698249816895
+570603c475f01819005e7886,Which region began to grow and assert itself in the 2000s?,Greater Sacramento,Greater Sacramento,1.0,1.0,1,-4.290349960327148
+5ad0421177cf76001a686f15,How much did southern California grow in the year 2000?,,10.0%,0.0,0.0,0,-3.164673328399658
+570607f575f01819005e78b4,What is the largest city in all of California?,Los Angeles,Los Angeles,1.0,1.0,1,-3.540228366851806
+570607f575f01819005e78b5,What is the population of the second largest city in California?,1.3 million,1.3 million,1.0,1.0,0,-1.4875479936599731
+570607f575f01819005e78b8,"Other than San Bernardino, which other developed southern Californian city is not in close proximity to the coast?",Riverside,Riverside,1.0,1.0,1,-4.880408763885498
+57060a1175f01819005e78d3,What characteristic best describes the agricultural regions that could be found?,richest,cattle and citrus,0.0,0.0,0,-2.189355611801147
+57060a1175f01819005e78d4,Which type of livestock was the argricultural region known for?,cattle,cattle,1.0,1.0,1,-4.54850959777832
+57060a1175f01819005e78d5,"Outside of livestock, what else was considered a major industry in the agriculture regions?",citrus,citrus,1.0,1.0,1,-3.820430040359497
+57060a1175f01819005e78d6,What industry has managed to survive major military spending cutbacks?,aerospace,aerospace,1.0,1.0,0,-2.532187461853027
+5ad0470477cf76001a686f82,What additional business districts are in downtown Los Angeles itself?,,"Century City, Westwood and Warner Center",0.0,0.0,0,-4.7345967292785645
+57060df252bb891400689821,"Other than San Bernardino, what is the name of the other city that maintains the districts including University Town?",Riverside,Riverside,1.0,1.0,1,-4.657210826873779
+57060eaf75f01819005e7912,Jamboree Business Parks belongs to which business center?,West Irvine,West Irvine,1.0,1.0,1,-3.716590166091919
+57060eaf75f01819005e7913,What other business district does Orange County envelop outside of Downtown Santa Ana and Newport Center?,South Coast Metro,South Coast Metro,1.0,1.0,0,-2.2639963626861572
+5ad0483977cf76001a686f8b,What districts does downtown Santa Ana include?,,South Coast Metro and Newport Center districts,0.0,0.0,0,-3.9142565727233882
+5ad0483977cf76001a686f8c,What locations are headquartered at the California University at Irvine?,,"Irvine Spectrum, West Irvine",0.0,0.0,1,-2.50064730644226
+5ad0483977cf76001a686f8d,What includes Irvine Center Tech and Business Jamboree Parks?,,West Irvine,0.0,0.0,0,-3.198683023452759
+57060f3e75f01819005e7925,University City is an example of a business district located in which city?,San Diego,San Diego,1.0,1.0,1,-4.905914783477783
+5ad04b2377cf76001a686f92,What is the central business district of downtown San Diego?,,Downtown San Diego,0.0,0.0,1,-2.586505174636841
+5ad04b2377cf76001a686f94,What business districts are located in Northern downtown San Diego?,,"Carmel Valley, Del Mar Heights, Mission Valley, Rancho Bernardo, Sorrento Mesa, and University City",0.0,0.0,1,-0.966626286506652
+570610b275f01819005e792b,What is the metric they use to determine how busy airports are?,passenger volume,passenger volume,1.0,1.0,1,-3.26589822769165
+5ad04bfc77cf76001a686f98,What is the busiest airport by passenger volume in the United States?,,Los Angeles International Airport,0.0,0.0,1,-1.434950113296508
+5ad04bfc77cf76001a686f99,What is the second-busiest single runway airport in the world?,,San Diego International Airport,0.0,0.0,0,-3.586444139480591
+5ad04bfc77cf76001a686f9a,What is the second-busiest general aviation airport?,,Los Angeles International Airport,0.0,0.0,0,-4.5289130210876465
+5706111a52bb89140068984f,"A single line connects San Bernardino, Riverside and what other county?",Orange,Orange,1.0,1.0,0,-2.012275695800781
+5ad04d3077cf76001a686fa1,What is the name of the Los Angeles rail system?,,Metrolink,0.0,0.0,0,-3.975685834884643
+5ad04d3077cf76001a686fa2,"What counties are connected to Los Angeles, Ventura, and San Bernardino by one line?",,"Riverside, Orange, and San Diego",0.0,0.0,0,-3.421645879745483
+5ad04de377cf76001a686fa6,What is home to Southern California?,,the Port of Los Angeles,0.0,0.0,1,-1.3171247243881221
+5ad04de377cf76001a686fa7,What is the busiest container port in the United States?,,Port of Los Angeles,0.0,0.0,0,-4.296628475189209
+5ad04de377cf76001a686fa8,What is the Port of San Diego adjacent to?,,Port of Long Beach,0.0,0.0,0,-2.880717515945434
+5ad04de377cf76001a686fa9,What is the United State's second-busiest commercial port?,,Long Beach,0.0,0.0,0,-3.254209756851196
+5706139252bb891400689866,What kind of university is the California Institute of Technology?,private,private,1.0,1.0,1,-3.8034944534301762
+5ad04f7977cf76001a686fb9,What NAB teams are from Southern California?,,"Los Angeles Rams, San Diego Chargers",0.0,0.0,1,-1.4613227844238281
+5ad04f7977cf76001a686fbb,What NLH teams are from Southern California?,,"Los Angeles Rams, San Diego Chargers",0.0,0.0,0,-3.600822687149048
+5ad04f7977cf76001a686fbc,What MSL team is from Southern California?,,Los Angeles Rams,0.0,0.0,0,-4.062515735626221
+5706149552bb891400689880,Which team was suspended from the MLS?,Chivas USA,Chivas USA,1.0,1.0,1,-3.261950016021728
+5706149552bb891400689882,Which year resulted in the suspension of one of the two soccer teams?,2014,2014,1.0,1.0,1,-3.498269081115722
+570614ff52bb89140068988c,What is the name of the team from USC?,Trojans,USC Trojans,0.0,0.666667,0,-2.874721765518188
+5706155352bb891400689896,What is rugby rapidly becoming with high schools?,an official school sport,official school sport,1.0,1.0,1,-4.351850986480713
+5ad23fded7d075001a4288fc,When did the Huguenot movement start?,,1562,0.0,0.0,1,-1.611035823822021
+57106185b654c5140001f8db,The term Huguenot was originally meant to confer?,derision,derision,1.0,1.0,0,-2.44157338142395
+5ad241c7d7d075001a428979,What does Huisgenoten translate to in French?,,housemates,0.0,0.0,0,-3.056338787078857
+57106644b654c5140001f8e6,When did the first French language bible appear?,Around 1294,1294,1.0,1.0,1,-4.546933174133301
+5ad243abd7d075001a428a11,In what country did the Protestant Reformation get its start?,,France,0.0,0.0,0,-3.473152875900268
+57106d2fb654c5140001f8f2,What proclamation officially ended limited Huguenot autonomy?,Edict of Alès,Edict of Alès,1.0,1.0,1,-3.558273077011108
+5ad25b9ed7d075001a428e6f,What was Maria de la Quellerie's fathers name?,,commander Jan van Riebeeck,0.0,0.0,0,-4.386563301086426
+57107932a58dae1900cd69cc,What was the name of the first Huguenot church in the New World?,L'Église française à la Nouvelle-Amsterdam,L'Eglise du Saint-Esprit,0.0,0.0,0,-4.415177345275879
+5ad25e99d7d075001a428f31,Besides Nova Scotia what was another British colony in North America?,,New Netherland,0.0,0.0,0,-4.201255321502685
+57107a3ea58dae1900cd69df,Where in South Carolina did Huguenot nobility settle?,the Charleston Orange district,Charleston,0.0,0.5,0,-3.365184068679809
+57107c24a58dae1900cd69eb,With what European country did the Huguenots feel kinship for emigration to?,Dutch Republic,Dutch Republic,1.0,1.0,1,-4.988808631896973
+5ad267dbd7d075001a42923f,What language did William III primarily speak?,,French,0.0,0.0,0,-2.766370773315429
+57107d73b654c5140001f91f,Which French kind issued this declaration?,Louis XIV,Louis XIV,1.0,1.0,0,-2.188952684402466
+57107d73b654c5140001f920,How many Huguenots fled France by the 1700s?,"500,000","500,000",1.0,1.0,1,-3.937662124633789
+57107e6ca58dae1900cd69f3,What event was the worst example of Huguenot persecution?,St. Bartholomew's Day massacre,St. Bartholomew's Day massacre,1.0,1.0,0,-0.093340687453746
+57108073b654c5140001f928,What King and former Huguenot looked out for the welfare of the group?,Henry IV,Henry IV,1.0,1.0,0,-2.528569459915161
+5ad24b60d7d075001a428be4,When was the second Huguenot rebellion?,,1629,0.0,0.0,1,-0.48861020803451505
+5ad24b60d7d075001a428be6,What nationality was Louis XIII originally?,,Italian,0.0,0.0,0,-4.146018028259277
+57108198b654c5140001f939,What northern province in France has a large protestant population?,Alsace,Alsace,1.0,1.0,1,-4.558522701263428
+57108198b654c5140001f93b,What country currently has a group who call themselves Huguenots?,Australia,France,0.0,0.0,0,-1.9239776134490962
+57108c95b654c5140001f979,What city north of New York was settled by Huguenots?,New Rochelle,New Rochelle,1.0,1.0,1,-4.628139019012451
+57108c95b654c5140001f97b,What Huguenot area is designated as a historical landmark?,"Huguenot Street Historic District"" in New Paltz""",Huguenot Street Historic District,1.0,1.0,0,-2.26985239982605
+5ad25f29d7d075001a428f60,How far is New Paltz from New York?,,21 miles,0.0,0.0,0,-3.518146276473999
+5ad25f29d7d075001a428f61,How far is New Rochelle from New Paltz?,,21 miles,0.0,0.0,0,-3.751368284225464
+57108d69b654c5140001f984,How many refugees emigrated to the Dutch Republic?,"an estimated total of 75,000 to 100,000 people","75,000 to 100,000",1.0,1.0,1,-4.7846198081970215
+57108d69b654c5140001f985,What was the population of the Dutch Republic before this emigration?,ca. 2 million,ca. 2 million,1.0,1.0,0,-1.878030180931091
+5ad268cbd7d075001a429295,How many clergymen were there in the Dutch Republic before the influx of Huguenots?,,200,0.0,0.0,0,-3.6263833045959473
+571090abb654c5140001f995,Where did Huguenots and Walloons settle in England?,Canterbury,Canterbury,1.0,1.0,1,-2.801577091217041
+571090abb654c5140001f997,What social construct did Huguenot refugees in Canterbury practice?,economic separation,economic separation,1.0,1.0,1,-3.697214365005493
+571090abb654c5140001f999,What is located on the site of The Weaving House currently?,a restaurant,a restaurant,1.0,1.0,1,-4.454469203948975
+5ad26c87d7d075001a429398,When was the The Weavers converted into a restaurant?,,1830,0.0,0.0,0,-2.85218334197998
+5ad26c87d7d075001a429399,In which English town did the most Huguenots live?,,Canterbury,0.0,0.0,0,-4.5379815101623535
+5ad26c87d7d075001a42939a,In which English town did the most Walloons live?,,Canterbury,0.0,0.0,0,-2.997966051101684
+5ad26c87d7d075001a42939c,Which English town had the largest refugee church?,,Maidstone,0.0,0.0,0,-3.166569948196411
+57109180a58dae1900cd6a40,What Irish cities had Huguenot mayors in the 1600s and 1700s?,"Dublin, Cork, Youghal and Waterford","Dublin, Cork, Youghal and Waterford",1.0,1.0,1,-4.513742923736572
+57109275b654c5140001f9a0,What was the name of France's primary colony in the New World?,New France,New France,1.0,1.0,1,-3.6120212078094482
+571093aba58dae1900cd6a5e,What did the Edict do for Huguenots in France?,granted the Protestants equality with Catholics,reaffirmed Catholicism as the state religion of France,0.0,0.083333,0,-2.624631404876709
+5ad248f7d7d075001a428b8d,In what year was Henry of Navarre made Henry IV?,,1598,0.0,0.0,0,-4.777513027191162
+571094b7a58dae1900cd6a67,How did the revocation restrict Huguenot travel?,prohibited emigration,prohibited emigration,1.0,1.0,1,-3.212443351745605
+571094b7a58dae1900cd6a6a,"Besides Britain and North America, where else did Huguenot refugees settle?","Holland, Prussia, and South Africa","Holland, Prussia, and South Africa",1.0,1.0,1,-3.462161064147949
+5ad24e85d7d075001a428c4f,Besides England who else were particularly welcoming to those fleeing France?,,North American colonies,0.0,0.0,0,-3.161677360534668
+571095a8a58dae1900cd6a77,When was the French colony in modern day Brazil founded?,1555,1555,1.0,1.0,1,-4.8660888671875
+571095a8a58dae1900cd6a78,What was the Brazilian French colony called?,France Antarctique,France Antarctique,1.0,1.0,1,-4.402691841125488
+5ad25963d7d075001a428e0c,How many Huguenots were part of the group that founded France Antarctique in 1555?,,around 500,0.0,0.0,0,-3.046452522277832
+5ad25c69d7d075001a428ea4,What prominent South African family had a vineyard in France?,,Huguenots,0.0,0.0,0,-4.264166831970215
+5ad25c69d7d075001a428ea6,What prominent South African family distilled brandy and were Huguenots?,,Blignaut,0.0,0.0,1,-0.492950141429901
+571098f8a58dae1900cd6ab4,What reference is there to Huguenot lacemakers in the 19th century?,twenty-five widows who settled in Dover,twenty-five widows who settled in Dover,1.0,1.0,1,-3.972428560256958
+571099b2b654c5140001f9b7,What other Northern European cities had Huguenot congregations?,"Fredericia (Denmark), Berlin, Stockholm, Hamburg, Frankfurt, Helsinki, and Emden","Berlin, Stockholm, Hamburg, Frankfurt, Helsinki, and Emden",0.0,0.875,0,-4.123934268951416
+5710e8c8a58dae1900cd6b26,Which central European country had a Calvinist ruler?,Prussia,Prussia,1.0,1.0,0,-1.751455068588256
+5710e9f8a58dae1900cd6b31,Who was the leader who established the colony at Florida?,Jean Ribault,Jean Ribault,1.0,1.0,1,-2.880976915359497
+5710e9f8a58dae1900cd6b33,Which army attacked and destroyed this colony?,Spanish,Pedro Menendez,0.0,0.0,0,-4.62161922454834
+5ad25aa1d7d075001a428e43,From where had the Norman Huguenots sailed in order to arrive at Fort Caroline?,,St. Johns River,0.0,0.0,0,-4.072227954864502
+5ad25d49d7d075001a428eef,In what year did Rene Goulaine de Laudonniere leave his position as a lieutenant for Jean Ribault?,,1564,0.0,0.0,1,-1.7793773412704461
+5ad25d49d7d075001a428ef0,In what year did the French Huguenots abandon their first North American outpost?,,1562,0.0,0.0,0,-4.035867691040039
+5ad26278d7d075001a4290ae,How many French Huguenot residents of Manakin Town actually live outside the town on farms?,,390,0.0,0.0,0,-3.8519952297210693
+5ad266f8d7d075001a42920a,Who was William the Silent's father?,,Pierre L'Oyseleur,0.0,0.0,0,-3.464621543884277
+5710f114a58dae1900cd6b60,What English law made that country more welcoming to Huguenots?,Foreign Protestants Naturalization Act,Foreign Protestants Naturalization Act,1.0,1.0,0,-2.194566965103149
+5ad26ba1d7d075001a429359,How many Protestant Walloons fled to England before the Foreign Protestants Naturalization Act was passed?,,"50,000",0.0,0.0,0,-3.974113702774048
+5ad26ba1d7d075001a42935a,Where was Andrew Lortie originally from?,,André Lortie,0.0,0.0,0,-4.325652599334717
+5ad26ba1d7d075001a42935b,In what year was Andrew Lortie born?,,André Lortie,0.0,0.0,1,-0.09699192643165501
+5ad26f6ed7d075001a429423,Where was the biggest settlement of Huguenots in Ireland?,,Dublin,0.0,0.0,0,-3.269784212112426
+5ad26f6ed7d075001a429425,What did the Huguenots who settled in Dublin contribute?,,expansion of flax cultivation and the growth of the Irish linen industry,0.0,0.0,0,-3.333705186843872
+5710f4b8b654c5140001fa49,In what year was the agreement to allow the Saarland settlement reached?,1604,1604,1.0,1.0,1,-4.4430623054504395
+5ad273b5d7d075001a4294bb,In what year did Huguenots first move to present-day Saarland?,,1604,0.0,0.0,0,-4.8711018562316895
+5711119cb654c5140001fae6,What area in modern-day Canada received Huguenot immigrants?,Quebec,Quebec,1.0,1.0,1,-3.652287721633911
+5711119cb654c5140001fae7,What made emigration to these colonies attractive?,they were accepted and allowed to worship freely,they were accepted and allowed to worship freely,1.0,1.0,1,-3.578211307525634
+5ad240eed7d075001a428940,What nation did the most Huguenots flee to from France?,,England,0.0,0.0,0,-3.940104246139526
+5ad240eed7d075001a428942,What religion predominated in the Holy Roman Empire?,,Protestant,0.0,0.0,0,-2.7763419151306152
+5ad240eed7d075001a428943,What was the biggest religion in Sweden?,,Protestant,0.0,0.0,1,-0.48684141039848305
+571112ada58dae1900cd6bcf,"According to the theory, what does the name Huguenot"" mean?""","little Hugos, or those who want Hugo","little Hugos, or those who want Hugo",1.0,1.0,1,-3.616960287094116
+571112ada58dae1900cd6bd0,Other theories of the word's origin can be generally classed as what?,double or triple non-French linguistic origins,Some disagree with such double or triple non-French linguistic origins,0.0,0.75,0,-3.469077825546264
+5ad2424cd7d075001a42898b,What religion was Hugues Capet?,,Protestants,0.0,0.0,1,-2.5211539268493652
+57111380a58dae1900cd6bd6,Who was one French pro-reform Roman Catholic of the 15th century? ,Jacques Lefevre,Jacques Lefevre,1.0,1.0,1,-4.27273416519165
+5ad2447dd7d075001a428a68,In what nation did the Gallicans get their start?,,French,0.0,0.0,1,-0.059417258948087005
+5ad2447dd7d075001a428a69,What French city was Jacques Lefevre from?,,Paris,0.0,0.0,1,-0.9299326539039611
+5ad24d2ad7d075001a428c20,In what year did Louis XIV start to deny Protestants the ability to work in certain professions?,,1685,0.0,0.0,0,-3.096790075302124
+5ad2615ed7d075001a429019,"How much land did the Lord of Pelham Manor, John Pell. own in total in North America?",,six thousand one hundred acres,0.0,0.0,0,-4.007211685180664
+5ad2615ed7d075001a42901a,Whose decision was it to name the new town New Rochelle?,,John Pell,0.0,0.0,0,-3.689893007278442
+5ad264d7d7d075001a429177,How did Huguenots hold onto some of their religious beliefs over the years?,,The Huguenots adapted quickly and often married outside their immediate French communities,0.0,0.0,0,-2.925633668899536
+5ad26acad7d075001a42932c,Is Saint Nicolas or Sint Nicolaas celebrated earlier in the year in the Netherlands?,,Sint Nicolaas,0.0,0.0,0,-3.280294179916382
+5ad26acad7d075001a42932d,How many volumes is Historical and Critical Dictionary?,,multi,0.0,0.0,0,-3.481884717941284
+57111ab8a58dae1900cd6c3c,What protestant religions made Northern European counties safe for Huguenot immigration?,Lutheran and Reformed,Lutheran and Reformed,1.0,1.0,1,-4.968550205230713
+5ad271c2d7d075001a429475,How many Huguenot settled in the Lower Saxony territory of Germany?,,"1,500",0.0,0.0,0,-3.855831146240234
+5ad275ccd7d075001a429510,Which side won the First World War Battle of Tannenberg?,,General Hermann von François,0.0,0.0,0,-2.779620409011841
+5ad275ccd7d075001a429511,"What ethnicity was Frederick William, Elector of Brandenburg?",,Huguenots,0.0,0.0,0,-4.530998229980469
+5725b33f6a3fe71400b8952e,What was the price of oil in March of 1974?,nearly $12,US$3 per barrel,0.0,0.0,0,-3.470615148544311
+5a75028897ca42001a521db2,What came after this oil crisis? ,,the 1979 oil crisis,0.0,0.0,0,-3.283870935440063
+5a75028897ca42001a521db3,What caused the crisis? ,,The embargo,0.0,0.0,0,-4.939481258392334
+5725b5a689a1e219009abd29,How did the Nixon administration negotiate with the uncooperative countries?,They arranged for Israel to pull back from the Sinai Peninsula and the Golan Heights.,multilateral negotiations,1.0,1.0,0,-1.113643646240234
+5725b76389a1e219009abd4e,Why did oil start getting priced in terms of gold?,"oil was priced in dollars, oil producers' real income decreased",oil producers' real income decreased,0.0,0.666667,0,-2.538902759552002
+5a38ab9fa4b263001a8c188b,What did Britain do in September 1971?,,floating the pound sterling,0.0,0.0,0,-3.794067144393921
+5a75054b97ca42001a521dcf,What does the dollar value do? ,,rise and fall according to market demand,0.0,0.0,0,-3.967821836471557
+5725b92e38643c19005acbd5,When did oil finally returned to its Bretton Woods levels?,1973–1974,1973–1974,1.0,1.0,1,-4.294245719909668
+5725b92e38643c19005acbd6,The price of oil is usually a stable commodity until when?,Until the oil shock,the oil shock,1.0,1.0,1,-4.257064819335937
+5a7505e497ca42001a521de4,Prices remained stable until what?,,the oil shock,0.0,0.0,0,-4.745917797088623
+5725bad5271a42140099d0bf,How many times more did the other nations have to pay for oil after the surprise attack?,ten times more,ten,1.0,1.0,0,-1.58604896068573
+5725bad5271a42140099d0c1,Why did the Shah of Iran gave an interview?,renewal of hostilities in the Arab–Israeli conflict,the price of oil] is going to rise,0.0,0.2,0,-3.6050281524658203
+5a75066297ca42001a521ded,How much did they say it was fair to raise the prices? ,,ten times more,0.0,0.0,0,-3.246163606643676
+5725bcb6271a42140099d0ed,Why did the oil ministers agree to a cut in oil production?,until their economic and political objectives were met,American aid to Israel,0.0,0.727273,0,-4.957604885101318
+5725bcb6271a42140099d0ef,Why did OPEC block oil deliveries to the United States?,American aid to Israel,"a principal hostile country""",0.0,0.26087,0,-3.393779993057251
+5a75082a97ca42001a521df5,What was the price of oil after the raise? ,,$5.11 a barrel,0.0,0.0,0,-4.634314060211182
+57261f9f271a42140099d4a9,What is one of the reason that US production has been held responsible for recessions and lower economic growth?,distribution and price disruptions,price disruptions,0.0,0.666667,0,-4.760164737701416
+5726241189a1e219009ac2e1,The oil crisis caused oil companies to increase oil supplies in which area?,Arctic,the Arctic,1.0,1.0,1,-4.81056022644043
+5a38b819a4b263001a8c18c9,What did macroeconomic problems cause oil companies to search for?,,increase oil supplies,0.0,0.0,0,-2.968528509140014
+572649d8f1498d1400e8db36,Which country is not badly hit by the embargo?,UK,the UK,1.0,1.0,1,-4.740898609161377
+5a38baa2a4b263001a8c18d9,What did the UK ban on Sundays due to the embargo?,,"flying, driving and boating",0.0,0.0,0,-4.122959136962891
+5a38bbe3a4b263001a8c18e5,What was rationing intended to promote in the market?,,oil exploration,0.0,0.0,0,-4.311028003692627
+5a38bd58a4b263001a8c18f0,How much oil did Nixon give to states in 1974?,,the same amount of domestic oil,0.0,0.0,1,-1.162016987800598
+5a38bd58a4b263001a8c18f1,What was common in states without population increases?,,lines at gasoline stations,0.0,0.0,0,-4.123819828033447
+57264efddd62a815002e8137,When was the National Highway Designated Act signed?,"November 28, 1995","November 28, 1995",1.0,1.0,1,-4.925454616546631
+5a38bf63a4b263001a8c18f8,What is the name of the President that imposed the speed limit?,,Bill Clinton,0.0,0.0,1,-0.37147441506385803
+5a38bf63a4b263001a8c18fb,What speed did the National Highway Designation Act prevent you from going beyond?,,89 km/h,0.0,0.0,1,-1.98821222782135
+57265200708984140094c238,Which country was worried that the US would invade the Middle East?,British Prime Minister Edward Heath,British Prime Minister Edward Heath,1.0,1.0,1,-4.539309978485107
+57265200708984140094c239,How long would the invasion of the Middle East have to last in order to develop renewable resources?,10 years,10 years,1.0,1.0,1,-4.940605640411377
+57265360dd62a815002e819c,"To force Japan to be more involved in the crisis, what did Saudi and Kuwaiti government do?",5% production cut,"declared Japan a nonfriendly"" country""",1.0,1.0,0,-0.987126529216766
+5a38c6bca4b263001a8c1919,When Japan received 71% of its imported oil from the middle east in December what result did it cause in public?,,panic,0.0,0.0,0,-3.393477439880371
+57265526708984140094c2c0,When did the Shah kingdom start to collapse?,January 1979,January 1979,1.0,1.0,0,-2.452825546264648
+5726581fdd62a815002e823a,Which sized cars were the least demanded cars in the crisis?,large cars,large,1.0,1.0,1,-4.530828952789307
+5726581fdd62a815002e823b,Which country's cars became more highly sought after as they were more fuel efficient?,Japanese imports,Japanese,1.0,1.0,1,-4.954579830169678
+5a38cd93a4b263001a8c192c,What country became a leader in importing large cars?,,Japanese,0.0,0.0,0,-4.391825199127197
+57265bdfdd62a815002e82a2,Which full-sized model cars were not popular?,Chevrolet Bel Air,"Chevrolet Bel Air, and Ford Galaxie 500",1.0,1.0,1,-3.7945163249969482
+5a38d4b9a4b263001a8c1947,"What did oil price increases force GM, Ford and Chrysler to do?",,introduce smaller and fuel-efficient models for domestic sales,0.0,0.0,0,-3.243261337280273
+57265ceddd62a815002e82ba,Which car shows the DOT's revision of categories?,Mustang I,Mustang I,1.0,1.0,1,-4.206770420074463
+5a38d93da4b263001a8c195d,What were two consequences of OPEC pushing down oil prices in 1981?,,shrinking or eliminating profits for high-cost producers,0.0,0.0,0,-3.321662187576294
+57271c235951b619008f860c,What is an example of major civil disobedience in South Africa?,apartheid,apartheid,1.0,1.0,1,-3.702218532562256
+5728d4c03acd2414000dffa0,Who was one of the earliest examples of Civil Disobedience against?,the British,the British occupation,1.0,1.0,1,-4.9022440910339355
+5728d4c03acd2414000dffa3,What civil rights movement in the US was known for it's disobedience?,American Civil Rights Movement,the Singing Revolution,0.0,0.0,0,-2.3167941570281982
+5a66413dc2b11c001a425ec8,What did the Velvet revolution hope to accomplish in India?,,Gandhi's campaigns for independence from the British Empire,0.0,0.0,1,-1.7070139646530151
+5a66413dc2b11c001a425eca,To what countries did the 1919 Revolution want to bring independence to from Russia?,,Baltic countries,0.0,0.0,1,-2.036025047302246
+5a66413dc2b11c001a425ecb,In what country was the 2004 Velvet Revolution?,,Czechoslovakia,0.0,0.0,0,-4.112473011016846
+5728d5793acd2414000dffb6,What was the protest in Antigone about?,giving her brother Polynices a proper burial,civil disobedience,0.0,0.0,0,-3.912200689315796
+5728d5793acd2414000dffb7,How was the civil disobedience shown in Antigone?,obey her conscience rather than human law,One of the oldest,0.0,0.0,0,-3.367668628692627
+5728d63c4b864d1900164f1a,What was the principle shown in The Mark of Anarchy?,principle of nonviolent protest,nonviolent protest,1.0,1.0,0,-1.754786133766174
+5728d63c4b864d1900164f1c,What was Ghandi's work called?,doctrine of Satyagraha,Masque of Anarchy,0.0,0.333333,0,-3.116368532180786
+572726c9708984140094da7b,Vice President Agnew describes Civil disobedience in what activities?,"muggers, arsonists, draft evaders, campaign hecklers, campus militants, anti-war demonstrators, juvenile delinquents and political assassins","muggers, arsonists, draft evaders, campaign hecklers, campus militants, anti-war demonstrators, juvenile delinquents and political assassins",1.0,1.0,1,-2.849734306335449
+572726c9708984140094da7c,Civil disobedience has been argued in more recent times to have suffered from what?,ambiguity,ambiguity,1.0,1.0,1,-3.973521947860717
+5728d6f02ca10214002da911,Who gave a negative connotation to civil disobedience in recent history?,Vice President Agnew,Marshall Cohen,1.0,1.0,1,-3.505552768707275
+5728d6f02ca10214002da912,What issue has been plaguing the civil disobedience movement.,ambiguity,ambiguity,1.0,1.0,1,-3.406268835067749
+5a664612c2b11c001a425f0a,What had happened to Vice President Agnew's status in modern times?,,it has become a code-word,0.0,0.0,1,-2.021553993225097
+572807802ca10214002d9bf9,Le Grande also wrote that defining the term civil disobedience so difficult it could be described as? ,impossible,impossible,1.0,1.0,1,-3.363101243972778
+572807802ca10214002d9bfa,Le grand asks for a variance of what three terms?,"lawful protest demonstration, nonviolent civil disobedience, and violent civil disobedience","lawful protest demonstration, nonviolent civil disobedience, and violent civil disobedience",1.0,1.0,0,-2.499793767929077
+572807802ca10214002d9bfc,Le grand concludes that an author's words offer only what they intended for them to imply regarding this type of terminology?,specific,no more (or no less) meaning,0.0,0.0,0,-4.274227619171143
+5728d7c54b864d1900164f4d,How much literature has been written regarding civil disobedience?,voluminous literature,voluminous,1.0,1.0,0,-2.177524328231811
+5728d7c54b864d1900164f50,What type of civil disobedience is accompanied by aggression?,violent civil disobedience,violent civil disobedience,1.0,1.0,1,-3.693390130996704
+57280f974b864d1900164370,If the head of government refuses to enforce a decision of the highest court what terminology could be used?,constitutional impasse,Civil disobedience,0.0,0.0,0,-3.020209789276123
+57280f974b864d1900164372,How is civil disobedience typically defined in connection of the citizen's?,to the state and its laws,laws,0.0,0.333333,0,-1.440696239471435
+57280f974b864d1900164374,Constitutional impasse is distinct from what key term? ,Civil disobedience,Civil disobedience,1.0,1.0,0,-2.109153747558593
+5728d9403acd2414000e001d,What type of person can not be attributed civil disobedience?,head of government,private citizen,0.0,0.0,0,-0.18888945877552002
+572812e74b864d19001643cf,What was Thoreau's punishment for not paying his taxes?,imprisonment,Resign,0.0,0.0,0,-2.029530048370361
+572812e74b864d19001643d0,Thoreau argues that usually majority rules but their views collectively are sometimes?,not necessarily right,The majority may be powerful but it is not necessarily right,0.0,0.461538,0,-2.610344886779785
+572812e74b864d19001643d2,Thoreau mentions what type of person could corrupt a government system?,elite politicians,elite politicians,1.0,1.0,1,-3.379933357238769
+5728dafe3acd2414000e005e,Who is to blame for acting unjustly?,individuals,individuals,1.0,1.0,1,-3.350875377655029
+5728dafe3acd2414000e0061,What did Thoreau claim about the majority?,not necessarily right,The majority may be powerful but it is not necessarily right,1.0,1.0,1,-3.9160444736480713
+5728151b4b864d190016442a,Brownlee justifies civil disobedience toward what branch of the government?,legal system,governmental entities,0.0,0.0,0,-0.43494361639022805
+5728151b4b864d190016442b,Browlee also applies that civil disobedience is okay regarding?,international organizations and foreign governments,opposition to the decisions of non-governmental agencies,0.0,0.6,0,-1.106625080108642
+5728dc2d3acd2414000e0081,What reason is given that you should also protest public companies?,a larger challenge to the legal system,a larger challenge to the legal system that permits those decisions to be taken,0.0,0.956522,0,-0.7977917790412901
+5728dc2d3acd2414000e0083,What public entity of learning is often target of civil disobedience?,universities,governmental,0.0,0.0,0,-4.277451992034912
+5a665338846392001a1e1ac7,Who believed that civil disobedience should only be used against governmental entities?,,Brownlee,0.0,0.0,0,-4.464052677154541
+5a665338846392001a1e1aca,In what other way can disobedience be applied to international organizations and governments?,,protest,0.0,0.0,1,-2.6017649173736572
+572818f54b864d190016446d,Stephen Eilmann asks why show public civil disobedience instead what is a better idea?,covert lawbreaking,if it is necessary to disobey rules that conflict with morality,0.0,0.0,0,-4.31355619430542
+572818f54b864d190016446e,Stephen Eilmann demonstrates covert law breaking in Nazi Germany.   Citizen's illegally had been doing what? ,hiding a Jew in their house,hiding a Jew in their house,1.0,1.0,0,-1.830914378166198
+572818f54b864d190016446f,Stephen Eildmann cites the oldest known example of civil disobedience in what part of the bible? ,(Exodus 1: 15-19),Book of Exodus,1.0,1.0,1,-4.288424968719482
+5728dddc2ca10214002da9d2,What must be done to make non public lawbreaking acknowledged as civil disobedience?,must be publicly announced,publicly announced,1.0,1.0,1,-2.8685169219970703
+5728dddc2ca10214002da9d4,What is sometimes more effective than civil disobedience at times?,fabricating evidence or committing perjury,assisting in fabricating evidence or committing perjury,1.0,1.0,1,-3.530602931976318
+5728dddc2ca10214002da9d5,What dilemma is a good example of moral civil disobedience?,the dilemma faced by German citizens,Hitler's secret police demanded to know if they were hiding a Jew in their house,0.0,0.903226,0,-1.049762964248657
+5728dddc2ca10214002da9d6,What book of the Bible discusses civil disobedience?,Book of Exodus,Book of Exodus,1.0,1.0,1,-4.760760307312012
+57281c594b864d19001644a2,Cristian Bay's encyclopedia concludes that civil disobedience does not only include what behavior?,non-violence,non-violent,1.0,1.0,1,-3.047803163528442
+57281c594b864d19001644a4,What other terminology is considered much more destructive?,civil rebellion,rebellion,1.0,1.0,1,-2.7978570461273193
+57281c594b864d19001644a6,Debates about civil disobedience include or exclude what major practice? ,violence,non-violent,1.0,1.0,1,-4.194520950317383
+5728df634b864d1900164fe4,What is one result of civil rebellion?,destructive,destructive,1.0,1.0,1,-3.610482454299926
+5728df634b864d1900164fe6,Why is it preferred that civil disobedience is non violent?,help preserve society's tolerance of civil disobedience,to help preserve society's tolerance of civil disobedience,0.0,0.933333,0,-3.008244037628174
+5a665747846392001a1e1aed,What is the result of rebellion according to Black's Law Dictionary?,,destructive,0.0,0.0,0,-3.517857551574707
+5728202c4b864d19001644ed,What group of people performed revolutionary civil disobedience toward the Austrian government?,Hungarians,Hungarians,1.0,1.0,1,-4.09063196182251
+5728202c4b864d19001644ef,Revolutionary civil disobedience towards culture is highlighted by example of who? ,Gandhi's,Gandhi,1.0,1.0,1,-3.149683475494384
+5728202c4b864d19001644f0,What other topics can Civil disobedience pertain to?,"cultural traditions, social customs, religious beliefs","change cultural traditions, social customs, religious beliefs",0.0,0.933333,0,-2.87737226486206
+5728e07e3acd2414000e00e9,What is a simple form of civil disobedience?,disobedience of laws,Non-revolutionary civil disobedience,1.0,1.0,0,-2.359597206115722
+5728e07e3acd2414000e00ec,What type of civil disobedience is larger scale?,Revolutionary civil disobedience,Revolutionary,1.0,1.0,0,-2.22650146484375
+5a665870846392001a1e1af3,What does non-revolutionary civil disobedience want to overthrow?,,laws,0.0,0.0,1,-0.37309008836746205
+572822233acd2414000df555,When did the earliest examples of civil disobedience as a whole occur?,during the Roman Empire,during the Roman Empire,1.0,1.0,0,-2.587612628936767
+5728e3c33acd2414000e0131,When is the oldest recorded incident of civil disobedience?,during the Roman Empire,during the Roman Empire,1.0,1.0,1,-4.716394424438477
+5728e3c33acd2414000e0132,What was the goal of this Roman disobedience?,prevent the installation of pagan images,prevent the installation of pagan images,1.0,1.0,1,-4.9805779457092285
+5728e3c33acd2414000e0134,What is the civil disobedience called where people refuse to be released?,jail solidarity,jail solidarity,1.0,1.0,0,-1.961733341217041
+5728e3c33acd2414000e0135,How long did it take for Thoreau's disobedience to be known?,until after the end of the Mexican War,after the end of the Mexican War,1.0,1.0,0,-1.990505456924438
+5728e5224b864d1900165033,What is an example of illegal disobedience?,trespassing at a nuclear-missile installation,trespassing at a nuclear-missile installation,1.0,1.0,1,-3.200546503067016
+5a665b56846392001a1e1b1d,How long did Julia Butterfly Hill live near a nuclear-missile installation?,,738 days,0.0,0.0,1,-1.514593243598938
+5728e5f43acd2414000e0171,What is one criminal behavior that is hard to stop by authorities?,pure speech,pure speech,1.0,1.0,1,-3.940273523330688
+5728e5f43acd2414000e0172,What is one way to use pure speech to reach as much people as possible to protest?,broadcasting,criminalized behavior,0.0,0.0,0,-1.422025322914123
+5728e5f43acd2414000e0173,How can you protest against the government in an individual way?,Threatening government officials,engaging in the forbidden speech,1.0,1.0,1,-4.363485813140869
+5728e5f43acd2414000e0174,What is one way of digital civil disobedience that can have far reaching consequences?,sending an email,engaging in the forbidden speech,0.0,0.0,0,-2.910673856735229
+5a666b43846392001a1e1c12,What court case was eventually the result of Joseph Haas sending and e-mail to the New Hampshire city council?,,FCC v. Pacifica Foundation,0.0,0.0,1,-2.256135702133178
+57282dfb4b864d190016466a,Name the other way that the Plowshares organization temporarily closed?,using sickles to deflate one of the large domes covering two satellite dishes,GCSB Waihopai,0.0,0.0,0,-3.717779874801635
+5728e715ff5b5019007da914,What is a type of disobedience against the federal government?,refusals to pay taxes,sit-ins,0.0,0.0,0,-1.275315880775451
+5728e715ff5b5019007da916,What side effect of these type of protests is unfortunate?,coercion,make it more difficult for a system to function,1.0,1.0,1,-4.032927989959717
+5728e8212ca10214002daa6c,What type of government investigations apply to civil disobedience?,criminal investigations,criminal,1.0,1.0,1,-3.075741529464721
+5728e8212ca10214002daa6e,What should be avoided when talking to authorities?,suspect's talking to criminal investigators,ruder and more impetuous thought or speech,0.0,0.0,0,-3.575869083404541
+5728e8212ca10214002daa6f,What reasons cause failure of the disobedience with authorities?,"lack of understanding of the legal ramifications,","lack of understanding of the legal ramifications, or due to a fear of seeming rude",1.0,1.0,0,-1.1549973487854
+5728e8212ca10214002daa70,Why do some people purposely resist officers of the law?,use the arrest as an opportunity,"lack of understanding of the legal ramifications, or due to a fear of seeming rude",0.0,0.125,0,-1.641974925994873
+5728eb1a3acd2414000e01c6,Why is the need for acceptance of punishment needed?,validity of the social contract,their belief in the validity of the social contract,1.0,1.0,0,-2.356560468673706
+5728eb1a3acd2414000e01c8,What is the group called that does not agree with government at all?,anarchists,anarchists,1.0,1.0,1,-3.106443405151367
+5728eb1a3acd2414000e01c9,Anarchists do not want to accept punishment for what reason?,does not infringe the rights of others,a violation of criminal law that does not infringe the rights of others,1.0,1.0,1,-4.477363109588623
+5a668632f038b7001ab0bf46,"While anarchists favor government, what don't they believe in?",,legitimacy,0.0,0.0,0,-3.163583517074585
+5728ebcb3acd2414000e01dc,Which reason is given sometimes to plead not guilty involving these matters?,Guilt implies wrong-doing,Guilt implies wrong-doing,1.0,1.0,1,-3.7479348182678223
+5728ec6a4b864d19001650ab,What was the civil disobedience performed at the test site?,tempted to enter the test site,Non-Violent Action,0.0,0.0,0,-4.393030643463135
+5a668b33f038b7001ab0bf92,How many missles were at the nuclear test site?,,13,0.0,0.0,1,-1.609605312347412
+5728ed94ff5b5019007da97c,Why do some people chose to go to jail for their disobedience?,a way of continuing their protest,"as a way of continuing their protest, as a way of reminding their countrymen of injustice",0.0,0.526316,0,-4.197990417480469
+5a668d4ef038b7001ab0bfc2,What does Howard Zinn believe should be removed?,,neo-conservative insistence on a guilty plea,0.0,0.0,0,-4.729381084442139
+5a668d4ef038b7001ab0bfc3,What does following the rules help to preserve with a protest?,,spirit of protest,0.0,0.0,0,-2.866286516189575
+5728eef92ca10214002daab0,What type of punishment is sometimes offered to civil disobedients?,plea bargain,plea bargain,1.0,1.0,1,-4.712526798248291
+5728eef92ca10214002daab1,What is usually the goal of taking a plea bargain?,no jail time,solidarity,0.0,0.0,0,-1.839375257492065
+5a668ef8f038b7001ab0bfdc,What did the prosecution propose in Ghandi's trial?,,plea bargain,0.0,0.0,0,-4.41906213760376
+5a668ef8f038b7001ab0bfdd,What group decided to enter a blind plea without any jailtime?,,activists,0.0,0.0,1,-1.289978146553039
+5a668ef8f038b7001ab0bfe0,How did the Camden 28 describe their actions to the court?,,the defendants were offered an opportunity to plead guilty to one misdemeanor count and receive no jail time,0.0,0.0,0,-3.935735702514648
+5728f50baf94a219006a9e55,What way do some people perform civil disobedience in a constructive way?,defiant speech,"defiant speech, or a speech explaining their actions",0.0,0.44444399999999995,0,-0.496800690889358
+5728f50baf94a219006a9e56,Why would one want to give a speech?,explaining their actions,mistreatment from government officials,0.0,0.0,0,-2.73595380783081
+5728f50baf94a219006a9e58,Why would one want to give more punishment?,likelihood of repeating,"an attempt to avoid responsibility for her actions, and even a likelihood of repeating her illegal actions",0.0,0.571429,0,-2.410896778106689
+5a66938ff038b7001ab0bffc,"In the US v. Burgos-Andujar, why was a member of the Navy's sentence increased?",,the ones who are violating the greater law,0.0,0.0,0,-4.54652738571167
+5728facd4b864d1900165170,What is the primary goal of pleading not guilty when arrested for Civil Disobedience?,acquittal and avoid imprisonment,win an acquittal and avoid imprisonment or a fine,1.0,1.0,0,-2.326694011688232
+5a66978af038b7001ab0c029,What kind of press coverage is there when defendants plead not guilty?,,reduced,0.0,0.0,1,-1.245815515518188
+5a66978af038b7001ab0c02a,What is the main goal of trying to get jury nullification during trial?,,win an acquittal and avoid imprisonment or a fine,0.0,0.0,0,-2.796734094619751
+5728fb6a1d04691400778ef6,Why should disobedience by the general public be avoided?,neither conscientious nor of social benefit,neither conscientious nor of social benefit,1.0,1.0,1,-3.5417933464050293
+5728fb6a1d04691400778ef7,What is one main reason that civil disobedience is not recognized?,breaking the law for self-gratification,breaking the law for self-gratification,1.0,1.0,1,-3.477141380310058
+5728fb6a1d04691400778ef9,For what reason would someone avoid crimes while protesting?,avoiding attribution,"avoiding attribution, or by denying having committed the crime, or by fleeing the jurisdiction",0.0,0.28571399999999997,0,-1.027523279190063
+5728fc9e1d04691400778f13,What US war caused a high amount of civil disobedience?,Vietnam War,Vietnam War,1.0,1.0,1,-4.057214736938477
+5728fc9e1d04691400778f15,Why are people who distribute leaflets inside courthouses not been arrested?,the leaflets will have to be given to the leafleter's own jury as evidence,prosecutors,0.0,0.0,0,-4.408295154571533
+5a66a156f038b7001ab0c072,What does indirect civil disobedience protest a law by doing?,,violating a law,0.0,0.0,0,-4.102452754974365
+5a66a156f038b7001ab0c076,"If he was arrested, what would happen to the leaflets that were handed out by Carter Wentworth in court",,the leaflets will have to be given to the leafleter's own jury as evidence,0.0,0.0,0,-3.846547365188598
+5728fd3c3f37b31900477f2b,What is the main goal of criminal punishment of civil disobedients?,incapacitation,achieving crime control,1.0,1.0,1,-3.646448850631714
+5728fd3c3f37b31900477f2f,What should the punishment rely on instead in a just society?,moral reasons to follow this law,utilitarian grounds,0.0,0.0,0,-3.199597597122192
+5a66a55af038b7001ab0c07f,What is the most important thing when deciding if a law is moral?,,whether it would do more harm than good,0.0,0.0,1,-2.698258638381958
