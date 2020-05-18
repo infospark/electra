@@ -185,7 +185,7 @@ class SpanBasedQAScorer(scorer.Scorer):
           reverse=True)
 
       _NbestPrediction = collections.namedtuple(  # pylint: disable=invalid-name
-          "NbestPrediction", ["text", "start_logit", "end_logit", "start_index", "end_index"])
+          "NbestPrediction", ["text", "start_logit", "end_logit", "start_index", "end_index", "tokens"])
 
       seen_predictions = {}
       nbest = []
@@ -224,13 +224,14 @@ class SpanBasedQAScorer(scorer.Scorer):
                 start_logit=pred.start_logit,
                 end_logit=pred.end_logit,
                 start_index=orig_doc_start,
-                end_index=orig_doc_end))
+                end_index=orig_doc_end,
+                tokens=enumerated_token_dict))
 
       # In very rare edge cases we could have no valid predictions. So we
       # just create a nonce prediction in this case to avoid failure.
       if not nbest:
         nbest.append(
-            _NbestPrediction(text="empty", start_logit=0.0, end_logit=0.0, start_index=0, end_index=0))
+            _NbestPrediction(text="empty", start_logit=0.0, end_logit=0.0, start_index=0, end_index=0, tokens=list()))
 
       assert len(nbest) >= 1
 
