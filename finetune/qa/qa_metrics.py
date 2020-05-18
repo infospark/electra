@@ -254,6 +254,7 @@ class SpanBasedQAScorer(scorer.Scorer):
         output["end_logit"] = entry.end_logit
         output["start_index"] = entry.start_index
         output["end_index"] = entry.end_index
+        output["tokens"] = entry.tokens
         nbest_json.append(dict(output))
 
       assert len(nbest_json) >= 1
