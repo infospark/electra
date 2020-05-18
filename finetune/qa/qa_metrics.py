@@ -108,7 +108,7 @@ class SpanBasedQAScorer(scorer.Scorer):
      
       enumerated_tokens = enumerate(example.doc_tokens)
       print ("Enumerated tokens")
-      enumerated_token_dict = {k: v for v, k in enumerated_tokens}
+      enumerated_token_dict = {k: v for k, v in enumerated_tokens}
       print(enumerated_token_dict)
 
       prelim_predictions = []
