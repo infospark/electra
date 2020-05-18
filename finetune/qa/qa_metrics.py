@@ -105,9 +105,13 @@ class SpanBasedQAScorer(scorer.Scorer):
 
       example_id = example.qas_id if "squad" in self._name else example.qid
       features = self._task.featurize(example, False, for_eval=True)
+     
+      enumerated_tokens = enumerate(example.doc_tokens)
+      print ("Enumerated tokens")
+      for x,y in enumerated_tokens:
+          print (x)
+          print (y)
       
-      print ("first tokens: " + " ".join(example.doc_tokens[0:2]))
-      print(type(example.doc_tokens))
       prelim_predictions = []
       # keep track of the minimum score of null start+end of position 0
       score_null = 1000000  # large and positive
