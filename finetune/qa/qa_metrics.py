@@ -105,7 +105,7 @@ class SpanBasedQAScorer(scorer.Scorer):
 
       example_id = example.qas_id if "squad" in self._name else example.qid
       features = self._task.featurize(example, False, for_eval=True)
-      for ()
+      
       print ("first tokens: " + " ".join(example.doc_tokens[0:2]))
       print(type(example.doc_tokens))
       prelim_predictions = []
