@@ -99,6 +99,7 @@ class SpanBasedQAScorer(scorer.Scorer):
 
     all_predictions = collections.OrderedDict()
     all_nbest_json = collections.OrderedDict()
+    all_tokens = collections.OrderedDict()
     scores_diff_json = collections.OrderedDict()
 
     for example in self._eval_examples:
@@ -111,6 +112,8 @@ class SpanBasedQAScorer(scorer.Scorer):
       enumerated_token_dict = {k: v for k, v in enumerated_tokens}
       print(enumerated_token_dict)
 
+      all_tokens[example_id] = enumerated_token_dict
+      
       prelim_predictions = []
       # keep track of the minimum score of null start+end of position 0
       score_null = 1000000  # large and positive
