@@ -108,10 +108,9 @@ class SpanBasedQAScorer(scorer.Scorer):
      
       enumerated_tokens = enumerate(example.doc_tokens)
       print ("Enumerated tokens")
-      for x,y in enumerated_tokens:
-          print (x)
-          print (y)
-      
+      enumerated_token_dict = {k: v for v, k in enumerated_tokens}
+      print(enumerated_token_dict)
+
       prelim_predictions = []
       # keep track of the minimum score of null start+end of position 0
       score_null = 1000000  # large and positive
