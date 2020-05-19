@@ -119,6 +119,7 @@ class FinetuningConfig(object):
     qa_topdir = os.path.join(results_dir, task_names_str + "_qa")
     self.qa_eval_file = os.path.join(qa_topdir, "{:}_eval.json").format
     self.qa_preds_file = os.path.join(qa_topdir, "{:}_preds.json").format
+    self.tokens_file = os.path.join(qa_topdir, "{:}_tokens.json").format
     self.nbest_file = os.path.join(qa_topdir, "{:}_nbest.json").format
     self.qa_na_file = os.path.join(qa_topdir, "{:}_null_odds.json").format
     self.qa_image_dir = os.path.join(qa_topdir, "squad_image_dir").format

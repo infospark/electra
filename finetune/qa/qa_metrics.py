@@ -113,7 +113,7 @@ class SpanBasedQAScorer(scorer.Scorer):
       print(enumerated_token_dict)
 
       all_tokens[example_id] = enumerated_token_dict
-      
+
       prelim_predictions = []
       # keep track of the minimum score of null start+end of position 0
       score_null = 1000000  # large and positive
@@ -282,6 +282,9 @@ class SpanBasedQAScorer(scorer.Scorer):
     utils.write_json(dict(all_nbest_json),
                      self._config.nbest_file(self._name))
 
+    utils.write_json(dict(all_tokens),
+                    self._config.tokens_file(self._name))
+    
     if self._v2:
       utils.write_json({
           k: float(v) for k, v in six.iteritems(scores_diff_json)},
