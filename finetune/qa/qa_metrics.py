@@ -108,9 +108,7 @@ class SpanBasedQAScorer(scorer.Scorer):
       features = self._task.featurize(example, False, for_eval=True)
      
       enumerated_tokens = enumerate(example.doc_tokens)
-      print ("Enumerated tokens")
       enumerated_token_dict = {k: v for k, v in enumerated_tokens}
-      print(enumerated_token_dict)
 
       all_tokens[example_id] = enumerated_token_dict
 
