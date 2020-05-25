@@ -79,8 +79,8 @@ class FinetuningConfig(object):
     # for qa tasks
     self.max_query_length = 64   # max tokens in q as opposed to context
     self.doc_stride = 128  # stride when splitting doc into multiple examples
-    self.n_best_size = 20  # number of predictions per example to save
-    self.max_answer_length = 30  # filter out answers longer than this length
+    self.n_best_size = 50  # number of predictions per example to save
+    self.max_answer_length = 50  # filter out answers longer than this length
     self.answerable_classifier = True  # answerable classifier for SQuAD 2.0
     self.answerable_uses_start_logits = True  # more advanced answerable
                                               # classifier using predicted start
