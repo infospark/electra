@@ -1,6 +1,406 @@
 {
-    "56ddde6b9a695914005b9628": -7.105039119720459,
-    "56ddde6b9a695914005b9629": -6.909591197967529,
-    "56ddde6b9a695914005b962a": -5.960648536682129,
-    "56ddde6b9a695914005b962b": 8.463753700256348
+    "1a": [
+        {
+            "text": "historical political divisions",
+            "probability": [
+                0
+            ],
+            "start_logit": -0.022605177015066147,
+            "end_logit": -0.030502382665872574,
+            "start_index": 17,
+            "end_index": 19
+        },
+        {
+            "text": "historical political divisions.",
+            "probability": [
+                1
+            ],
+            "start_logit": -0.022605177015066147,
+            "end_logit": -3.5530214309692383,
+            "start_index": 17,
+            "end_index": 19
+        },
+        {
+            "text": "based on historical political divisions",
+            "probability": [
+                2
+            ],
+            "start_logit": -4.411149978637695,
+            "end_logit": -0.11861417442560196,
+            "start_index": 15,
+            "end_index": 19
+        },
+        {
+            "text": "political divisions",
+            "probability": [
+                3
+            ],
+            "start_logit": -5.004120349884033,
+            "end_logit": -0.030493345111608505,
+            "start_index": 18,
+            "end_index": 19
+        },
+        {
+            "text": "on historical political divisions",
+            "probability": [
+                4
+            ],
+            "start_logit": -6.395441055297852,
+            "end_logit": -0.09327749162912369,
+            "start_index": 16,
+            "end_index": 19
+        },
+        {
+            "text": "based on historical political divisions.",
+            "probability": [
+                5
+            ],
+            "start_logit": -4.411149978637695,
+            "end_logit": -2.1974921226501465,
+            "start_index": 15,
+            "end_index": 19
+        },
+        {
+            "text": "historical political",
+            "probability": [
+                6
+            ],
+            "start_logit": -0.022605177015066147,
+            "end_logit": -6.988606929779053,
+            "start_index": 17,
+            "end_index": 18
+        },
+        {
+            "text": "historical",
+            "probability": [
+                7
+            ],
+            "start_logit": -0.022605177015066147,
+            "end_logit": -7.655003070831299,
+            "start_index": 17,
+            "end_index": 17
+        },
+        {
+            "text": "political divisions.",
+            "probability": [
+                8
+            ],
+            "start_logit": -5.004120349884033,
+            "end_logit": -3.598513603210449,
+            "start_index": 18,
+            "end_index": 19
+        },
+        {
+            "text": "used based on historical political divisions",
+            "probability": [
+                9
+            ],
+            "start_logit": -8.369608879089355,
+            "end_logit": -0.2695196568965912,
+            "start_index": 14,
+            "end_index": 19
+        },
+        {
+            "text": "divisions",
+            "probability": [
+                10
+            ],
+            "start_logit": -8.702113151550293,
+            "end_logit": -0.07744268327951431,
+            "start_index": 19,
+            "end_index": 19
+        },
+        {
+            "text": "on historical political divisions.",
+            "probability": [
+                11
+            ],
+            "start_logit": -6.395441055297852,
+            "end_logit": -2.4290547370910645,
+            "start_index": 16,
+            "end_index": 19
+        },
+        {
+            "text": "The more extensive 10-county definition, including Kern and San Luis Obispo counties, is also used based on historical political divisions",
+            "probability": [
+                12
+            ],
+            "start_logit": -8.388598442077637,
+            "end_logit": -0.7728586196899414,
+            "start_index": 0,
+            "end_index": 19
+        },
+        {
+            "text": "is also used based on historical political divisions",
+            "probability": [
+                13
+            ],
+            "start_logit": -8.916472434997559,
+            "end_logit": -0.4357490539550781,
+            "start_index": 12,
+            "end_index": 19
+        },
+        {
+            "text": "also used based on historical political divisions",
+            "probability": [
+                14
+            ],
+            "start_logit": -9.10632038116455,
+            "end_logit": -0.5760056376457214,
+            "start_index": 13,
+            "end_index": 19
+        },
+        {
+            "text": "used based on historical political divisions.",
+            "probability": [
+                15
+            ],
+            "start_logit": -8.369608879089355,
+            "end_logit": -1.4680923223495483,
+            "start_index": 14,
+            "end_index": 19
+        },
+        {
+            "text": "The more extensive 10-county definition, including Kern and San Luis Obispo counties, is also used based on historical political divisions.",
+            "probability": [
+                16
+            ],
+            "start_logit": -8.388598442077637,
+            "end_logit": -1.5568008422851562,
+            "start_index": 0,
+            "end_index": 19
+        },
+        {
+            "text": "is also used based on historical political divisions.",
+            "probability": [
+                17
+            ],
+            "start_logit": -8.916472434997559,
+            "end_logit": -1.3299760818481445,
+            "start_index": 12,
+            "end_index": 19
+        },
+        {
+            "text": "also used based on historical political divisions.",
+            "probability": [
+                18
+            ],
+            "start_logit": -9.10632038116455,
+            "end_logit": -1.3759801387786865,
+            "start_index": 13,
+            "end_index": 19
+        },
+        {
+            "text": "The more extensive 10-county definition, including Kern and San Luis Obispo counties",
+            "probability": [
+                19
+            ],
+            "start_logit": -8.388598442077637,
+            "end_logit": -2.115844249725342,
+            "start_index": 0,
+            "end_index": 11
+        }
+    ],
+    "1b": [
+        {
+            "text": "10-county definition",
+            "probability": [
+                0
+            ],
+            "start_logit": -6.27842903137207,
+            "end_logit": -1.1269563436508179,
+            "start_index": 3,
+            "end_index": 4
+        },
+        {
+            "text": "The more extensive 10-county definition",
+            "probability": [
+                1
+            ],
+            "start_logit": -6.890445709228516,
+            "end_logit": -1.3041490316390991,
+            "start_index": 0,
+            "end_index": 4
+        },
+        {
+            "text": "more extensive 10-county definition",
+            "probability": [
+                2
+            ],
+            "start_logit": -7.255461692810059,
+            "end_logit": -1.0727976560592651,
+            "start_index": 1,
+            "end_index": 4
+        },
+        {
+            "text": "10-county definition, including Kern and San Luis Obispo counties, is also used based on historical political divisions. Southern California",
+            "probability": [
+                3
+            ],
+            "start_logit": -6.27842903137207,
+            "end_logit": -2.093029499053955,
+            "start_index": 3,
+            "end_index": 21
+        },
+        {
+            "text": "10-county",
+            "probability": [
+                4
+            ],
+            "start_logit": -6.27842903137207,
+            "end_logit": -2.152437686920166,
+            "start_index": 3,
+            "end_index": 3
+        },
+        {
+            "text": "The more extensive 10-county definition, including Kern and San Luis Obispo counties, is also used based on historical political divisions. Southern California",
+            "probability": [
+                5
+            ],
+            "start_logit": -6.890445709228516,
+            "end_logit": -1.6078428030014038,
+            "start_index": 0,
+            "end_index": 21
+        },
+        {
+            "text": "10-county definition, including Kern and San Luis Obispo counties, is also used based on historical political divisions",
+            "probability": [
+                6
+            ],
+            "start_logit": -6.27842903137207,
+            "end_logit": -2.2202982902526855,
+            "start_index": 3,
+            "end_index": 19
+        },
+        {
+            "text": "10-county definition, including Kern and San Luis Obispo counties",
+            "probability": [
+                7
+            ],
+            "start_logit": -6.27842903137207,
+            "end_logit": -2.4335641860961914,
+            "start_index": 3,
+            "end_index": 11
+        },
+        {
+            "text": "extensive 10-county definition",
+            "probability": [
+                8
+            ],
+            "start_logit": -8.104280471801758,
+            "end_logit": -0.8133578300476074,
+            "start_index": 2,
+            "end_index": 4
+        },
+        {
+            "text": "10",
+            "probability": [
+                9
+            ],
+            "start_logit": -6.27842903137207,
+            "end_logit": -2.744213581085205,
+            "start_index": 3,
+            "end_index": 3
+        },
+        {
+            "text": "The more extensive 10-county definition, including Kern and San Luis Obispo counties, is also used based on historical political divisions",
+            "probability": [
+                10
+            ],
+            "start_logit": -6.890445709228516,
+            "end_logit": -2.187434196472168,
+            "start_index": 0,
+            "end_index": 19
+        },
+        {
+            "text": "historical political divisions",
+            "probability": [
+                11
+            ],
+            "start_logit": -7.706864356994629,
+            "end_logit": -1.4631588459014893,
+            "start_index": 17,
+            "end_index": 19
+        },
+        {
+            "text": "political divisions",
+            "probability": [
+                12
+            ],
+            "start_logit": -8.304594993591309,
+            "end_logit": -0.899347186088562,
+            "start_index": 18,
+            "end_index": 19
+        },
+        {
+            "text": "The more extensive 10-county definition, including Kern and San Luis Obispo counties",
+            "probability": [
+                13
+            ],
+            "start_logit": -6.890445709228516,
+            "end_logit": -2.4130043983459473,
+            "start_index": 0,
+            "end_index": 11
+        },
+        {
+            "text": "divisions",
+            "probability": [
+                14
+            ],
+            "start_logit": -8.490681648254395,
+            "end_logit": -0.8305062055587769,
+            "start_index": 19,
+            "end_index": 19
+        },
+        {
+            "text": "Southern California",
+            "probability": [
+                15
+            ],
+            "start_logit": -8.357537269592285,
+            "end_logit": -0.975756824016571,
+            "start_index": 20,
+            "end_index": 21
+        },
+        {
+            "text": "more extensive 10-county definition, including Kern and San Luis Obispo counties, is also used based on historical political divisions. Southern California",
+            "probability": [
+                16
+            ],
+            "start_logit": -7.255461692810059,
+            "end_logit": -2.1500353813171387,
+            "start_index": 1,
+            "end_index": 21
+        },
+        {
+            "text": "more extensive 10-county",
+            "probability": [
+                17
+            ],
+            "start_logit": -7.255461692810059,
+            "end_logit": -2.188464641571045,
+            "start_index": 1,
+            "end_index": 3
+        },
+        {
+            "text": "The more extensive 10-county",
+            "probability": [
+                18
+            ],
+            "start_logit": -6.890445709228516,
+            "end_logit": -2.5712637901306152,
+            "start_index": 0,
+            "end_index": 3
+        },
+        {
+            "text": "more extensive 10-county definition, including Kern and San Luis Obispo counties, is also used based on historical political divisions",
+            "probability": [
+                19
+            ],
+            "start_logit": -7.255461692810059,
+            "end_logit": -2.3272628784179688,
+            "start_index": 1,
+            "end_index": 19
+        }
+    ]
 }
