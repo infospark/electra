@@ -193,6 +193,8 @@ class SpanBasedQAScorer(scorer.Scorer):
       for pred in prelim_predictions:
         if len(nbest) >= self._config.n_best_size:
           break
+        if pred.start_logit + pred.end_logit < -8:
+          break
         feature = features[pred.feature_index]
         tok_tokens = feature[self._name + "_tokens"][
             pred.start_index:(pred.end_index + 1)]
