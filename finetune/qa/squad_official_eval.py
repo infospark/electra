@@ -305,10 +305,10 @@ def main():
                      "squad_f1_thresh.json")
 
   utils.write_json(dict(exact_raw),
-                     "exact_raw.json")
+                     "squad_exact_raw.json")
   
   utils.write_json(dict(f1_raw),
-                     "f1_raw.json")
+                     "squad_f1_raw.json")
 
 
 
