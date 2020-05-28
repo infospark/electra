@@ -299,10 +299,17 @@ def main():
 
   # write exact_raw and f1_raw out to file
   utils.write_json(dict(exact_thresh),
-                     "squad_exact.json")
+                     "squad_exact_thresh.json")
   
   utils.write_json(dict(f1_thresh),
-                     "squad_f1.json")
+                     "squad_f1_thresh.json")
+
+  utils.write_json(dict(exact_raw),
+                     "exact_raw.json")
+  
+  utils.write_json(dict(f1_raw),
+                     "f1_raw.json")
+
 
 
   out_eval = make_eval_dict(exact_thresh, f1_thresh)
