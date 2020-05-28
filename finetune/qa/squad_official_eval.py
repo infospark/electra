@@ -287,12 +287,21 @@ def main():
   has_ans_qids = [k for k, v in qid_to_has_ans.items() if v]
   no_ans_qids = [k for k, v in qid_to_has_ans.items() if not v]
   exact_raw, f1_raw = get_raw_scores(dataset, preds)
+
+
   exact_thresh = apply_no_ans_threshold(exact_raw, na_probs, qid_to_has_ans,
                                         OPTS.na_prob_thresh)
   f1_thresh = apply_no_ans_threshold(f1_raw, na_probs, qid_to_has_ans,
                                      OPTS.na_prob_thresh)
-  for qid, s in f1_thresh.items():
-    print('%s,%d' % (qid, s))
+
+
+  # write exact_raw and f1_raw out to file
+  utils.write_json(dict(exact_thresh),
+                     self._config.exact_file(self._name))
+  
+  utils.write_json(dict(f1_thresh),
+                     self._config.f1_file(self._name))
+
 
   out_eval = make_eval_dict(exact_thresh, f1_thresh)
   if has_ans_qids:

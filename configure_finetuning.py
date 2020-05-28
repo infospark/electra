@@ -121,6 +121,8 @@ class FinetuningConfig(object):
     self.qa_preds_file = os.path.join(qa_topdir, "{:}_preds.json").format
     self.tokens_file = os.path.join(qa_topdir, "{:}_tokens.json").format
     self.nbest_file = os.path.join(qa_topdir, "{:}_nbest.json").format
+    self.exact_file = os.path.join(qa_topdir, "{:}_exact.json").format
+    self.f1_file = os.path.join(qa_topdir, "{:}_f1.json").format
     self.qa_na_file = os.path.join(qa_topdir, "{:}_null_odds.json").format
     self.qa_image_dir = os.path.join(qa_topdir, "squad_image_dir").format
     self.preprocessed_data_dir = os.path.join(
