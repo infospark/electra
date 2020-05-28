@@ -38,6 +38,8 @@ import tensorflow.compat.v1 as tf
 
 import configure_finetuning
 
+from util import utils
+
 OPTS = None
 
 def parse_args():
